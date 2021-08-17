@@ -1,0 +1,393 @@
+{
+  "data": {
+    "conference": {
+      "partners": [
+        {
+          "name": "Accessibility Club",
+          "social": {
+            "homepage": "https://accessibility-club.org/",
+            "twitter": null,
+            "facebook": null,
+            "linkedin": null
+          },
+          "about": "Community events around web accessibility & assistive technology",
+          "image": {
+            "url": "https://api.react-finland.fi/media/sponsors/a11yclub.svg"
+          }
+        },
+        {
+          "name": "DNA325",
+          "social": {
+            "homepage": "https://dna325.com/",
+            "twitter": null,
+            "facebook": "https://facebook.com/dna325",
+            "linkedin": "https://linkedin.com/in/dna325"
+          },
+          "about": "Top rated IT staffing and recruitment agency",
+          "image": {
+            "url": "https://api.react-finland.fi/media/sponsors/dna325.svg"
+          }
+        },
+        {
+          "name": "HalfStack",
+          "social": {
+            "homepage": "http://halfstackconf.com/",
+            "twitter": "https://twitter.com/london_ajax",
+            "facebook": "https://facebook.com/halfstackconf",
+            "linkedin": null
+          },
+          "about": "HalfStack is a one-day, single track, fun JS conf",
+          "image": {
+            "url": "https://api.react-finland.fi/media/sponsors/halfstack.svg"
+          }
+        },
+        {
+          "name": "JSCamp",
+          "social": {
+            "homepage": "https://jscamp.tech/",
+            "twitter": "https://twitter.com/jscamp",
+            "facebook": "https://facebook.com/jscamp",
+            "linkedin": null
+          },
+          "about": "Two-day International Javascript Conference crafted for and by the community. Learn about the latest trends, meet core team members of different frameworks, tooling and more!",
+          "image": {
+            "url": "https://api.react-finland.fi/media/sponsors/jscamp.svg"
+          }
+        },
+        {
+          "name": "JSKongress",
+          "social": {
+            "homepage": "https://js-kongress.com/?utm_source=reactfi&utm_medium=koop&utm_campaign=20190118&utm_nooverride=1",
+            "twitter": "https://twitter.com/JSKongress",
+            "facebook": null,
+            "linkedin": null
+          },
+          "about": "(r)evolution of Architectures",
+          "image": {
+            "url": "https://api.react-finland.fi/media/sponsors/jskongress.png"
+          }
+        },
+        {
+          "name": "Koodia Suomesta",
+          "social": {
+            "homepage": "https://koodiasuomesta.fi/en/",
+            "twitter": "https://twitter.com/koodiasuomesta",
+            "facebook": null,
+            "linkedin": null
+          },
+          "about": "Finnish code is known for its superior quality. Now it can be easily recognized.",
+          "image": {
+            "url": "https://api.react-finland.fi/media/sponsors/koodiasuomesta.svg"
+          }
+        },
+        {
+          "name": "React New York",
+          "social": {
+            "homepage": "https://reactnewyork.com/",
+            "twitter": "https://twitter.com/reactnewyork",
+            "facebook": null,
+            "linkedin": null
+          },
+          "about": "The international event for coding inspiration",
+          "image": {
+            "url": "https://api.react-finland.fi/media/sponsors/reactnewyork.svg"
+          }
+        },
+        {
+          "name": "React Norway",
+          "social": {
+            "homepage": "https://reactnorway.com/",
+            "twitter": "https://twitter.com/reactnorway",
+            "facebook": null,
+            "linkedin": null
+          },
+          "about": "The international event for coding inspiration",
+          "image": {
+            "url": "https://api.react-finland.fi/media/sponsors/reactnorway.svg"
+          }
+        },
+        {
+          "name": "SurviveJS",
+          "social": {
+            "homepage": "https://survivejs.com/",
+            "twitter": "https://twitter.com/survivejs",
+            "facebook": null,
+            "linkedin": null
+          },
+          "about": "SurviveJS will take you from a JavaScript apprentice to master",
+          "image": {
+            "url": "https://api.react-finland.fi/media/sponsors/survivejs.svg"
+          }
+        },
+        {
+          "name": "React Brussels",
+          "social": {
+            "homepage": "https://www.react.brussels/?utm_source=reactfinland&utm_medium=referral&utm_campaign=partners-2021",
+            "twitter": "https://twitter.com/BrusselsReact",
+            "facebook": "https://facebook.com/events/756038281737514",
+            "linkedin": null
+          },
+          "about": "The first React conference in Brussels",
+          "image": {
+            "url": "https://api.react-finland.fi/media/sponsors/reactbrussels.svg"
+          }
+        },
+        {
+          "name": "ReactJS Girls",
+          "social": {
+            "homepage": "https://reactjsgirls.com/",
+            "twitter": "https://twitter.com/reactjsgirls",
+            "facebook": null,
+            "linkedin": null
+          },
+          "about": "A conference for every React developer where women take the stage",
+          "image": {
+            "url": "https://api.react-finland.fi/media/sponsors/reactjsgirls.svg"
+          }
+        },
+        {
+          "name": "React Native EU",
+          "social": {
+            "homepage": "https://react-native.eu/",
+            "twitter": "https://twitter.com/react_native_eu",
+            "facebook": null,
+            "linkedin": null
+          },
+          "about": "First community conference in Europe, focused exclusively on React Native. Community, core contributors, insights, networking and tons of knowledge.",
+          "image": {
+            "url": "https://api.react-finland.fi/media/sponsors/react-native-eu.svg"
+          }
+        },
+        {
+          "name": "ReactJs Day",
+          "social": {
+            "homepage": "http://reactjsday.it/",
+            "twitter": "https://twitter.com/reactjsday",
+            "facebook": "https://facebook.com/reactjsday",
+            "linkedin": null
+          },
+          "about": "ReactJS Day is a one-day, single track conference in Verona",
+          "image": {
+            "url": "https://api.react-finland.fi/media/sponsors/reactjsday.svg"
+          }
+        },
+        {
+          "name": "React Summit",
+          "social": {
+            "homepage": "https://reactsummit.com",
+            "twitter": "https://twitter.com/reactdayberlin",
+            "facebook": "https://facebook.com/reactdayberlin",
+            "linkedin": null
+          },
+          "about": "The Biggest React Conference Worldwide",
+          "image": {
+            "url": "https://api.react-finland.fi/media/sponsors/react-summit.svg"
+          }
+        },
+        {
+          "name": "WebExpo",
+          "social": {
+            "homepage": "https://www.webexpo.net/",
+            "twitter": "https://twitter.com/webexpo",
+            "facebook": "https://facebook.com/WebExpo",
+            "linkedin": null
+          },
+          "about": "The web event of the year",
+          "image": {
+            "url": "https://api.react-finland.fi/media/sponsors/webexpo.png"
+          }
+        }
+      ],
+      "goldSponsors": [
+        {
+          "name": "Gofore",
+          "social": {
+            "homepage": "https://gofore.com/en/home/",
+            "twitter": "https://twitter.com/GoforeGroup",
+            "facebook": "https://facebook.com/GoforeGroup",
+            "linkedin": "https://linkedin.com/company/gofore"
+          },
+          "about": "We create tomorrow's digital services and work culture today",
+          "image": {
+            "url": "https://api.react-finland.fi/media/sponsors/gofore.svg"
+          }
+        },
+        {
+          "name": "Futurice",
+          "social": {
+            "homepage": "https://www.futurice.com/",
+            "twitter": "https://twitter.com/futurice",
+            "facebook": "https://facebook.com/futurice",
+            "linkedin": "https://linkedin.com/company/futurice"
+          },
+          "about": "You can’t predict the future. Are you prepared to define it?",
+          "image": {
+            "url": "https://api.react-finland.fi/media/sponsors/futurice.svg"
+          }
+        },
+        {
+          "name": "Smartly",
+          "social": {
+            "homepage": "https://www.smartly.io",
+            "twitter": null,
+            "facebook": null,
+            "linkedin": null
+          },
+          "about": "Powering Beautifully Effective Ads",
+          "image": {
+            "url": "https://api.react-finland.fi/media/sponsors/smartly.svg"
+          }
+        }
+      ],
+      "silverSponsors": [
+        {
+          "name": "Digia",
+          "social": {
+            "homepage": "https://digia.com/",
+            "twitter": "https://twitter.com/digiaonline",
+            "facebook": null,
+            "linkedin": null
+          },
+          "about": "Smoother digital world",
+          "image": {
+            "url": "https://api.react-finland.fi/media/sponsors/digia.svg"
+          }
+        },
+        {
+          "name": "Elisa",
+          "social": {
+            "homepage": "https://elisa.fi/",
+            "twitter": "https://twitter.com/elisaoyj",
+            "facebook": "https://facebook.com/elisasuomi",
+            "linkedin": "https://linkedin.com/company/elisa"
+          },
+          "about": "Experiences and productivity",
+          "image": {
+            "url": "https://api.react-finland.fi/media/sponsors/elisa.svg"
+          }
+        },
+        {
+          "name": "Alma Media",
+          "social": {
+            "homepage": "https://www.almamedia.fi/",
+            "twitter": "https://twitter.com/almamedia_fi",
+            "facebook": "https://facebook.com/almamedia",
+            "linkedin": "https://linkedin.com/company/alma-media-corporation"
+          },
+          "about": "Courage to grow",
+          "image": {
+            "url": "https://api.react-finland.fi/media/sponsors/alma.svg"
+          }
+        },
+        {
+          "name": "Columbia Road",
+          "social": {
+            "homepage": "https://www.columbiaroad.com/",
+            "twitter": "https://twitter.com/ColumbiaRoadCom",
+            "facebook": "https://facebook.com/ColumbiaRoadCom",
+            "linkedin": "https://linkedin.com/company/columbia-road"
+          },
+          "about": "A Nordic Digital Sales Consultancy",
+          "image": {
+            "url": "https://api.react-finland.fi/media/sponsors/columbiaroad.svg"
+          }
+        }
+      ],
+      "bronzeSponsors": [
+        {
+          "name": "Relex",
+          "social": {
+            "homepage": "https://www.relexsolutions.com/",
+            "twitter": "https://twitter.com/RelexSolutions",
+            "facebook": "https://facebook.com/RELEXSolutions",
+            "linkedin": "https://linkedin.com/in/relexsolutions"
+          },
+          "about": "Optimize retail for every future",
+          "image": {
+            "url": "https://api.react-finland.fi/media/sponsors/relex.svg"
+          }
+        },
+        {
+          "name": "Vincit",
+          "social": {
+            "homepage": "https://www.vincit.fi/",
+            "twitter": "https://twitter.com/VincitOy",
+            "facebook": "https://facebook.com/VincitOyj",
+            "linkedin": "https://linkedin.com/company/vincit-oy"
+          },
+          "about": "Not Another Software Company",
+          "image": {
+            "url": "https://api.react-finland.fi/media/sponsors/vincit.svg"
+          }
+        },
+        {
+          "name": "Wunder",
+          "social": {
+            "homepage": "https://wunder.io/",
+            "twitter": "https://twitter.com/Wunder_io",
+            "facebook": "https://facebook.com/wunder.io",
+            "linkedin": "https://linkedin.com/company/wunder.io"
+          },
+          "about": "Shaping the Digital Experience",
+          "image": {
+            "url": "https://api.react-finland.fi/media/sponsors/wunder.svg"
+          }
+        },
+        {
+          "name": "Cybercom",
+          "social": {
+            "homepage": "https://www.cybercom.com",
+            "twitter": "https://twitter.com/CybercomFinland",
+            "facebook": "https://facebook.com/cybercomfinland",
+            "linkedin": "https://linkedin.com/company/cybercom"
+          },
+          "about": "Cybercom is an IT consulting company enabling companies and organisations to benefit from the opportunities of the connected world and to enhance their competitiveness. Combining technical edge and strong business insight we provide innovative and sustainable solutions.",
+          "image": {
+            "url": "https://api.react-finland.fi/media/sponsors/cybercom.svg"
+          }
+        },
+        {
+          "name": "Netum",
+          "social": {
+            "homepage": "https://www.netum.fi/",
+            "twitter": "https://twitter.com/netumoy",
+            "facebook": null,
+            "linkedin": null
+          },
+          "about": "To create new, you have to understand old",
+          "image": {
+            "url": "https://api.react-finland.fi/media/sponsors/netum.svg"
+          }
+        },
+        {
+          "name": "Nitor",
+          "social": {
+            "homepage": "https://www.nitor.com/en",
+            "twitter": "https://twitter.com/nitorcreations",
+            "facebook": "https://facebook.com/NitorCreations",
+            "linkedin": "https://linkedin.com/company/nitor-creations-ltd"
+          },
+          "about": "Digital engineering",
+          "image": {
+            "url": "https://api.react-finland.fi/media/sponsors/nitor.svg"
+          }
+        }
+      ],
+      "platformSponsors": [
+        {
+          "name": "Brella",
+          "social": {
+            "homepage": "https://www.brella.io/",
+            "twitter": "https://twitter.com/brellanetwork",
+            "facebook": "https://facebook.com/brellanetwork",
+            "linkedin": null
+          },
+          "about": "The world's leading virtual event platform",
+          "image": {
+            "url": "https://api.react-finland.fi/media/sponsors/brella.svg"
+          }
+        }
+      ]
+    }
+  }
+}

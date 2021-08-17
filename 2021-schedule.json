@@ -1,0 +1,1570 @@
+{
+  "data": {
+    "conference": {
+      "schedules": [
+        {
+          "day": "2021-08-30",
+          "description": "Monday",
+          "intervals": [
+            {
+              "begin": "11:00",
+              "end": "15:00",
+              "title": null,
+              "sessions": [
+                {
+                  "type": "WORKSHOP",
+                  "title": "Modeling React Apps with XState",
+                  "description": "In this workshop, you will become familiar with XState and learn to apply it in your daily work. If you have ever wanted to pick up state machines and statecharts, this is a good chance to do it.",
+                  "people": [
+                    {
+                      "name": "David Khourshid",
+                      "about": "David Khourshid is a Florida-based web developer for Microsoft, a tech author, and speaker. Also a fervent open-source contributor, he is passionate about JavaScript, CSS, animation, innovative user interfaces, and cutting-edge front-end technologies. When not behind a computer keyboard, he’s behind a piano keyboard or traveling.",
+                      "aboutShort": "David Khourshid is a Florida-based web developer for Microsoft, a tech author, and speaker.",
+                      "image": {
+                        "url": "https://api.react-finland.fi/media/people/david.jpg"
+                      },
+                      "company": null,
+                      "social": {
+                        "twitter": "https://twitter.com/davidkpiano",
+                        "homepage": null
+                      },
+                      "location": {
+                        "country": {
+                          "name": "United States",
+                          "code": "US"
+                        },
+                        "city": "Orlando"
+                      }
+                    }
+                  ],
+                  "urls": null
+                }
+              ]
+            },
+            {
+              "begin": "12:00",
+              "end": "15:00",
+              "title": null,
+              "sessions": [
+                {
+                  "type": "WORKSHOP",
+                  "title": "Video on the web",
+                  "description": "Video is one of the fastest growing mediums on the web and in mobile applications. Video files have been shown to increase engagement, and can be a great way to deliver your message quickly. (And who doesn’t love animated GIFs?)\n\nHowever, video that takes a long time to start up leads to frustration and abandonment. The same goes for video that stalls during playback. In this workshop, you’ll learn best practices to optimize the delivery of your video to you customers, ensuring fast delivery and minimizing stalls for a great customer experience.",
+                  "people": [
+                    {
+                      "name": "Doug Sillars",
+                      "about": "Head of Developer Relations at api.video",
+                      "aboutShort": "Head of Developer Relations at api.",
+                      "image": {
+                        "url": "https://api.react-finland.fi/media/people/doug.jpg"
+                      },
+                      "company": null,
+                      "social": {
+                        "twitter": "https://twitter.com/dougsillars",
+                        "homepage": null
+                      },
+                      "location": {
+                        "country": {
+                          "name": "United States",
+                          "code": "US"
+                        },
+                        "city": ""
+                      }
+                    }
+                  ],
+                  "urls": null
+                }
+              ]
+            },
+            {
+              "begin": "14:00",
+              "end": "17:00",
+              "title": null,
+              "sessions": [
+                {
+                  "type": "WORKSHOP",
+                  "title": "Testing React Native Apps Using Cypress",
+                  "description": "How to run React Native apps in the browser using react-native-web and Expo, then how to run end-to-end tests with Cypress. We can add code coverage reporting and executing tests on CI, giving us high confidence in our application's code. Finally, we will learn how to mock the native components during tests.",
+                  "people": [
+                    {
+                      "name": "Gleb Bahmutov",
+                      "about": "JavaScript ninja, image processing expert, software quality fanatic. Sr Director of Engineering at Mercari US. MS MVP for OSS work.",
+                      "aboutShort": "JavaScript ninja, image processing expert, software quality fanatic.",
+                      "image": {
+                        "url": "https://api.react-finland.fi/media/people/gleb.jpg"
+                      },
+                      "company": null,
+                      "social": {
+                        "twitter": "https://twitter.com/bahmutov",
+                        "homepage": "https://glebbahmutov.com/"
+                      },
+                      "location": {
+                        "country": {
+                          "name": "United States",
+                          "code": "US"
+                        },
+                        "city": "Boston"
+                      }
+                    }
+                  ],
+                  "urls": null
+                }
+              ]
+            },
+            {
+              "begin": "16:00",
+              "end": "18:00",
+              "title": "Opening",
+              "sessions": [
+                {
+                  "type": "TALK",
+                  "title": "Breaking out of the confines: making games in React",
+                  "description": "To show how we can make rich, interactive experiences, for instance games, with React semantics and shareable components, and what that means for traditional constructs, like the render-loop.",
+                  "people": [
+                    {
+                      "name": "Paul Henschel",
+                      "about": "The author of react-spring, react-three-fiber, zustand, and many more libraries.",
+                      "aboutShort": "The author of react-spring, react-three-fiber, zustand, and many more libraries.",
+                      "image": {
+                        "url": "https://api.react-finland.fi/media/people/paul.png"
+                      },
+                      "company": null,
+                      "social": {
+                        "twitter": "https://twitter.com/0xca0a",
+                        "homepage": null
+                      },
+                      "location": {
+                        "country": {
+                          "name": "Great Britain",
+                          "code": "GB"
+                        },
+                        "city": ""
+                      }
+                    }
+                  ],
+                  "urls": null
+                },
+                {
+                  "type": "TALK",
+                  "title": "The State of XState",
+                  "description": "Over the past few years, state machines, statecharts, and the actor model have proven to be viable concepts for building complex application logic in a clear, visual way with XState. In this talk, we'll take a peek into the future of XState, including new features in the next version, and new tools and services that will make it even easier to create and collaborate on state machines.",
+                  "people": [
+                    {
+                      "name": "David Khourshid",
+                      "about": "David Khourshid is a Florida-based web developer for Microsoft, a tech author, and speaker. Also a fervent open-source contributor, he is passionate about JavaScript, CSS, animation, innovative user interfaces, and cutting-edge front-end technologies. When not behind a computer keyboard, he’s behind a piano keyboard or traveling.",
+                      "aboutShort": "David Khourshid is a Florida-based web developer for Microsoft, a tech author, and speaker.",
+                      "image": {
+                        "url": "https://api.react-finland.fi/media/people/david.jpg"
+                      },
+                      "company": null,
+                      "social": {
+                        "twitter": "https://twitter.com/davidkpiano",
+                        "homepage": null
+                      },
+                      "location": {
+                        "country": {
+                          "name": "United States",
+                          "code": "US"
+                        },
+                        "city": "Orlando"
+                      }
+                    }
+                  ],
+                  "urls": null
+                },
+                {
+                  "type": "TALK",
+                  "title": "SolidJS - Reactive JSX",
+                  "description": "An introduction to SolidJS UI Library. Explore an example to show the similarity and differences between Hook + Virtual DOM versus Reactivity + DOM.",
+                  "people": [
+                    {
+                      "name": "Ryan Carniato",
+                      "about": "JavaScript performance enthusiast and fine-grained reactivity super fan. Works on @MarkoDevTeam at eBay. Author of the @solid_js.",
+                      "aboutShort": "JavaScript performance enthusiast and fine-grained reactivity super fan.",
+                      "image": {
+                        "url": "https://api.react-finland.fi/media/people/ryan.jpg"
+                      },
+                      "company": null,
+                      "social": {
+                        "twitter": "https://twitter.com/RyanCarniato",
+                        "homepage": null
+                      },
+                      "location": {
+                        "country": {
+                          "name": "United States",
+                          "code": "US"
+                        },
+                        "city": "San Jose"
+                      }
+                    }
+                  ],
+                  "urls": null
+                },
+                {
+                  "type": "TALK",
+                  "title": "JSX as the shared source of truth",
+                  "description": "Even today, with advanced tooling and frameworks, the gap between design and development still exists. This talk will examine how we can eliminate handoff between design and development teams by using JSX as a shared source of truth across any platform.",
+                  "people": [
+                    {
+                      "name": "Travis Arnold",
+                      "about": "Designer 🎨 Engineer 📐 Systems 🎛 React ⚛️",
+                      "aboutShort": "Designer 🎨 Engineer 📐 Systems 🎛 React ⚛️.",
+                      "image": {
+                        "url": "https://api.react-finland.fi/media/people/travis.jpg"
+                      },
+                      "company": null,
+                      "social": {
+                        "twitter": "https://twitter.com/souporserious",
+                        "homepage": "https://souporserious.com/"
+                      },
+                      "location": {
+                        "country": {
+                          "name": "United States",
+                          "code": "US"
+                        },
+                        "city": "San Diego"
+                      }
+                    }
+                  ],
+                  "urls": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": "2021-08-31",
+          "description": "Tuesday",
+          "intervals": [
+            {
+              "begin": "09:00",
+              "end": "12:00",
+              "title": null,
+              "sessions": [
+                {
+                  "type": "WORKSHOP",
+                  "title": "Current state of SSR in React, its limitations and its future",
+                  "description": "Server Side Rendering (SSR) can be achieved in many ways. renderToString and renderToNodeStream are the basic functionality exported by React. But how can they be integrated into the current app and where are limitations of renderToNodeStream. We will learn how code splitting in SSR with lazy works and how the experimental Suspense in React 18 would change existing 3rd-party-libraries. When there is time we dive into Next.js and Gatsby, its differences and how to achieve a simple website with one of these libraries. When there is even more time (might not be the case) we will talk about React’s server components which are yet in research.\n\nThe goal of this workshop is to understand how SSR works in React and how to improve it.",
+                  "people": [
+                    {
+                      "name": "Jan Peer Stöcklmair",
+                      "about": "Open-source contributor. JS fanatic. I love optimizing workflows.",
+                      "aboutShort": "Open-source contributor.",
+                      "image": {
+                        "url": "https://api.react-finland.fi/media/people/jan.png"
+                      },
+                      "company": null,
+                      "social": {
+                        "twitter": "https://twitter.com/jpeer264",
+                        "homepage": "https://jpeer.at/"
+                      },
+                      "location": {
+                        "country": {
+                          "name": "Austria",
+                          "code": "AT"
+                        },
+                        "city": "Vienna"
+                      }
+                    }
+                  ],
+                  "urls": null
+                }
+              ]
+            },
+            {
+              "begin": "10:00",
+              "end": "13:00",
+              "title": null,
+              "sessions": [
+                {
+                  "type": "WORKSHOP",
+                  "title": "Powering Next.js with Drupal",
+                  "description": "This session will cover why and how to fully decouple Drupal with Next.JS, an open source modern frontend framework that will empower frontend developers to build incredibly fast and interactive websites using React without losing key benefits that Drupal provides like content modeling and administration UI.\n          \nJoin us if you want to discover the ins and outs of how Drupal and Gatsby ecosystem complement each other.",
+                  "people": [
+                    {
+                      "name": "David Corbacho Roman",
+                      "about": "Señor Developer.",
+                      "aboutShort": "Señor Developer.",
+                      "image": {
+                        "url": "https://api.react-finland.fi/media/people/david-c.jpg"
+                      },
+                      "company": null,
+                      "social": {
+                        "twitter": "https://twitter.com/dcorbacho",
+                        "homepage": null
+                      },
+                      "location": {
+                        "country": {
+                          "name": "Finland",
+                          "code": "FI"
+                        },
+                        "city": "Helsinki"
+                      }
+                    },
+                    {
+                      "name": "Mario Vercellotti",
+                      "about": "Content lead at Robocorp",
+                      "aboutShort": "Content lead at Robocorp.",
+                      "image": {
+                        "url": "https://api.react-finland.fi/media/people/mario.png"
+                      },
+                      "company": null,
+                      "social": {
+                        "twitter": "https://twitter.com/vermario",
+                        "homepage": null
+                      },
+                      "location": {
+                        "country": {
+                          "name": "Finland",
+                          "code": "FI"
+                        },
+                        "city": "Helsinki"
+                      }
+                    }
+                  ],
+                  "urls": null
+                }
+              ]
+            },
+            {
+              "begin": "10:00",
+              "end": "14:00",
+              "title": null,
+              "sessions": [
+                {
+                  "type": "WORKSHOP",
+                  "title": "MicroFrontends in React",
+                  "description": "Our first MicroFrontend project started almost to the day exactly five years ago and since then we have accompanied countless projects following this architectural style. Ever since, the technical possibilities with which MicroFrontends can be implemented have changed significantly and the options have increased considerably.\n\nOn the client-side we came from dilettante approaches based on iFrames and settled up with more elaborated strategies like Webpack Module-Federation or EcmaScript Import-Maps. We moved from pure Edge-Side-Includes to full fletched frameworks that allow us to compose MicroFrontends more comfortably and sustainably on the server-side. And even during the implementation, we achieved entirely new possibilities by more mature ways to manage MonoRepos and distributed or incremental builds. By showing real-world examples, we will go into detail about the evolution of these different approaches.\n          \nUpon a closer look at the challenges that still remain, it will become clear that none of these new concepts and tools come for free but with a fair amount of newly introduced complexity. Ultimately, this workshop will explain the different possibilities to implement MicroFrontends in the past, the present, and the future. More importantly, it will leave you to know which of the available approaches is best suited for your specific task at hand.",
+                  "people": [
+                    {
+                      "name": "David Leitner",
+                      "about": "David is Coding Architect at SQUER, a Viennese Software Company, which is working with different stacks and environments, but always an overarching mission: connect ideas and provide impact — with technology. He spends much of his time on the frontlines tackling the challenges of scaling software and complex domains, with a strong focus on reactive systems, cloud-native architectures and state of the art web technologies. David enjoys sharing his knowledge as a speaker at conferences and as a lecturer for his post-diploma courses at the University of Applied Sciences Technikum Vienna.",
+                      "aboutShort": "David is Coding Architect at SQUER, a Viennese Software Company, which is working with different stacks and environments, but always an overarching mission: connect ideas and provide impact — with technology.",
+                      "image": {
+                        "url": "https://api.react-finland.fi/media/people/david-l.jpg"
+                      },
+                      "company": null,
+                      "social": {
+                        "twitter": "https://twitter.com/duffleit",
+                        "homepage": null
+                      },
+                      "location": {
+                        "country": {
+                          "name": "Austria",
+                          "code": "AT"
+                        },
+                        "city": "Vienna"
+                      }
+                    }
+                  ],
+                  "urls": null
+                }
+              ]
+            },
+            {
+              "begin": "15:00",
+              "end": "16:30",
+              "title": "Architecture",
+              "sessions": [
+                {
+                  "type": "TALK",
+                  "title": "Hooks are a great abstraction model",
+                  "description": "The discussion explores the separation of concerns between logic (Model) and UI (View) and how React hooks are a great abstraction model that help achieve that.\n\nWe'll start with designing a component's API (in a top down approach), then dive deeper to explore how to implement this API, while maintaining a good separation of concerns. \n          \nWe'll create custom React hooks to implement the Model and React components for the UI. Both expose self-documenting APIs and are completely decoupled from each other.\n          \nTo demo this approach, we'll create a simple Toggler component (a UI component that allows going back and forth in an array of values).\n          \nTowards the end, we'll explore the benefits, focusing on testing these decoupled units in isolation.",
+                  "people": [
+                    {
+                      "name": "Calin Tamas",
+                      "about": "Building mobile apps. I aim to write reliable and well-documented software.",
+                      "aboutShort": "Building mobile apps.",
+                      "image": {
+                        "url": "https://api.react-finland.fi/media/people/calin.jpeg"
+                      },
+                      "company": null,
+                      "social": {
+                        "twitter": "https://twitter.com/calintamas2",
+                        "homepage": "https://calintamas.dev/"
+                      },
+                      "location": {
+                        "country": {
+                          "name": "Romania",
+                          "code": "RO"
+                        },
+                        "city": "Cluj-Napoca"
+                      }
+                    }
+                  ],
+                  "urls": null
+                },
+                {
+                  "type": "TALK",
+                  "title": "Web Components in React",
+                  "description": "Likely you've heard of Web Components but do you know how to use them with React? If not, then this is the demonstration for you!",
+                  "people": [
+                    {
+                      "name": "Matias Huhta",
+                      "about": "",
+                      "aboutShort": "",
+                      "image": {
+                        "url": "https://api.react-finland.fi/media/people/matias.jpeg"
+                      },
+                      "company": null,
+                      "social": {
+                        "twitter": "https://twitter.com/matsuuu_",
+                        "homepage": "https://matsu.fi/"
+                      },
+                      "location": {
+                        "country": {
+                          "name": "Finland",
+                          "code": "FI"
+                        },
+                        "city": "Helsinki"
+                      }
+                    }
+                  ],
+                  "urls": null
+                },
+                {
+                  "type": "TALK",
+                  "title": "Micro Frontends in React — a State of the Art Approach",
+                  "description": "David will explain the different possibilities to implement MicroFrontends in the past, the present, and the future. More importantly, he will leave you to know which of the available approaches is best suited for your specific task at hand.",
+                  "people": [
+                    {
+                      "name": "David Leitner",
+                      "about": "David is Coding Architect at SQUER, a Viennese Software Company, which is working with different stacks and environments, but always an overarching mission: connect ideas and provide impact — with technology. He spends much of his time on the frontlines tackling the challenges of scaling software and complex domains, with a strong focus on reactive systems, cloud-native architectures and state of the art web technologies. David enjoys sharing his knowledge as a speaker at conferences and as a lecturer for his post-diploma courses at the University of Applied Sciences Technikum Vienna.",
+                      "aboutShort": "David is Coding Architect at SQUER, a Viennese Software Company, which is working with different stacks and environments, but always an overarching mission: connect ideas and provide impact — with technology.",
+                      "image": {
+                        "url": "https://api.react-finland.fi/media/people/david-l.jpg"
+                      },
+                      "company": null,
+                      "social": {
+                        "twitter": "https://twitter.com/duffleit",
+                        "homepage": null
+                      },
+                      "location": {
+                        "country": {
+                          "name": "Austria",
+                          "code": "AT"
+                        },
+                        "city": "Vienna"
+                      }
+                    }
+                  ],
+                  "urls": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": "2021-09-01",
+          "description": "Wednesday",
+          "intervals": [
+            {
+              "begin": "10:00",
+              "end": "11:30",
+              "title": "Styling",
+              "sessions": [
+                {
+                  "type": "TALK",
+                  "title": "A thorough analysis of CSS-in-JS",
+                  "description": "There are more than 50 different CSS-in-JS libraries out there and each of them provides a unique set of features.\n\nInstead of reviewing each individual library, we’ll analyse the various features that these libraries have to offer, to better understand what approach better suits a specific use-case.",
+                  "people": [
+                    {
+                      "name": "Andrei Pfeiffer",
+                      "about": "Eclectic Code Designer. UI Developer for web & mobile. Organizer of revo.js conference.",
+                      "aboutShort": "Eclectic Code Designer.",
+                      "image": {
+                        "url": "https://api.react-finland.fi/media/people/andrei.jpg"
+                      },
+                      "company": null,
+                      "social": {
+                        "twitter": "https://twitter.com/pfeiffer_andrei",
+                        "homepage": "https://andreipfeiffer.dev/"
+                      },
+                      "location": {
+                        "country": {
+                          "name": "Romania",
+                          "code": "RO"
+                        },
+                        "city": "Timisoara"
+                      }
+                    }
+                  ],
+                  "urls": null
+                },
+                {
+                  "type": "TALK",
+                  "title": "Zero-runtime CSS-in-TypeScript with vanilla-extract",
+                  "description": "Can we have themeable CSS-in-TypeScript without the runtime cost? In this talk we'll have a quick look at how this can be achieved with vanilla-extract.",
+                  "people": [
+                    {
+                      "name": "Mark Dalgleish",
+                      "about": "CSS Modules co-creator, Playroom, Braid, MelbJS. OSS / UI / design / tooling at @seek-oss",
+                      "aboutShort": "CSS Modules co-creator, Playroom, Braid, MelbJS.",
+                      "image": {
+                        "url": "https://api.react-finland.fi/media/people/mark.jpg"
+                      },
+                      "company": null,
+                      "social": {
+                        "twitter": "https://twitter.com/markdalgleish",
+                        "homepage": null
+                      },
+                      "location": {
+                        "country": {
+                          "name": "Australia",
+                          "code": "AU"
+                        },
+                        "city": "Melbourne"
+                      }
+                    }
+                  ],
+                  "urls": null
+                },
+                {
+                  "type": "TALK",
+                  "title": "Rethinking CSS - Introducing Stylex",
+                  "description": "CSS + superpowers - bloat. How Stylex creates a zero-cost abstraction that gives CSS superpowers.",
+                  "people": [
+                    {
+                      "name": "Naman Goel",
+                      "about": "Maintainer of Stylex, Facebook's not-yet-open-source CSS-in-JS framework. Working on Web Designs System Components at Facebook.",
+                      "aboutShort": "Maintainer of Stylex, Facebook's not-yet-open-source CSS-in-JS framework.",
+                      "image": {
+                        "url": "https://api.react-finland.fi/media/people/naman.jpg"
+                      },
+                      "company": null,
+                      "social": {
+                        "twitter": "https://twitter.com/naman34",
+                        "homepage": "http://blog.namangoel.com"
+                      },
+                      "location": {
+                        "country": {
+                          "name": "United States",
+                          "code": "US"
+                        },
+                        "city": "San Francisco"
+                      }
+                    }
+                  ],
+                  "urls": null
+                }
+              ]
+            },
+            {
+              "begin": "12:00",
+              "end": "13:30",
+              "title": "Content management",
+              "sessions": [
+                {
+                  "type": "TALK",
+                  "title": "How to View and React without a Head",
+                  "description": "You might have heard about Headless CMS. This new type of content platform gives us some benefits compared to a Monolithic CMS.\n          \nWe will talk about the key features of any Headless CMS and how we can integrate a headless platform into our React applications. We will focus on Storyblok, a headless CMS that offers a real-time Visual Editor, a great feature for developers and content creators.",
+                  "people": [
+                    {
+                      "name": "Facundo Giuliani",
+                      "about": "Developer Relations Engineer at Storyblok. Systems Engineer. Full Stack Developer.",
+                      "aboutShort": "Developer Relations Engineer at Storyblok.",
+                      "image": {
+                        "url": "https://api.react-finland.fi/media/people/facundo.jpg"
+                      },
+                      "company": null,
+                      "social": {
+                        "twitter": "https://twitter.com/facundozurdo",
+                        "homepage": "https://fgiuliani.com/"
+                      },
+                      "location": {
+                        "country": {
+                          "name": "Argentina",
+                          "code": "AR"
+                        },
+                        "city": "Buenos Aires"
+                      }
+                    }
+                  ],
+                  "urls": null
+                },
+                {
+                  "type": "TALK",
+                  "title": "React Bricks: a CMS with visual editing based on React components",
+                  "description": "Headless CMSs are great for developers, but not for content creators.\n\nReact Bricks is the first CMS that is super-great for Developers (it's just React, backed by solid APIs), for Content Creators (it keeps the visual editing experience of no-code tools like Wix) and for Designers (you can express your exact design system and be sure nobody will break it). I'll show you how it works!",
+                  "people": [
+                    {
+                      "name": "Matteo Frana",
+                      "about": "Founder of @ReactBricks, the Visual editing CMS.",
+                      "aboutShort": "Founder of @ReactBricks, the Visual editing CMS.",
+                      "image": {
+                        "url": "https://api.react-finland.fi/media/people/matteo.jpg"
+                      },
+                      "company": null,
+                      "social": {
+                        "twitter": "https://twitter.com/matfrana",
+                        "homepage": "https://reactbricks.com/"
+                      },
+                      "location": {
+                        "country": {
+                          "name": "Italy",
+                          "code": "IT"
+                        },
+                        "city": "Bergamo"
+                      }
+                    }
+                  ],
+                  "urls": null
+                },
+                {
+                  "type": "TALK",
+                  "title": "Contentful and headless",
+                  "description": "How contentful helps you to manage all the data in a headless e-commerce website.",
+                  "people": [
+                    {
+                      "name": "Nidhi Kumari",
+                      "about": "Frontend Engineer @shoptradeco | @gsoc 2019 & 2020",
+                      "aboutShort": "Frontend Engineer @shoptradeco | @gsoc 2019 & 2020.",
+                      "image": {
+                        "url": "https://api.react-finland.fi/media/people/nidhi.jpg"
+                      },
+                      "company": null,
+                      "social": {
+                        "twitter": "https://twitter.com/NidhiJha98",
+                        "homepage": "https://nimbus20bportfolio.netlify.app/"
+                      },
+                      "location": {
+                        "country": {
+                          "name": "India",
+                          "code": "IN"
+                        },
+                        "city": ""
+                      }
+                    }
+                  ],
+                  "urls": null
+                }
+              ]
+            },
+            {
+              "begin": "14:00",
+              "end": "15:30",
+              "title": "State machines",
+              "sessions": [
+                {
+                  "type": "TALK",
+                  "title": "Introducing state machines and statecharts",
+                  "description": "State machines and statecharts can seem intimidating. Especially if you (like me!) didn’t study computer science, aren’t big into maths, or just haven’t come across state machines and statecharts before.\n\nIn this session, you’ll get a whirlwind introduction to state machines and statecharts, no prior knowledge and no coding experience required. Are you already familiar with state machines and statecharts but want to get a better understanding of the benefits and how to convince your team to get onboard? That’ll be covered too.\n          \nYou could be a developer, designer, project manager, multi-disciplinarian or fancy specialist, I believe everyone can get something out of this talk, so join me!",
+                  "people": [
+                    {
+                      "name": "Laura Kalbag",
+                      "about": "I’m a friendly designer originally from the UK, now living in Ireland. You’ll usually find me talking about rights-respecting design, accessibility and inclusivity, privacy, web design and development.",
+                      "aboutShort": "I’m a friendly designer originally from the UK, now living in Ireland.",
+                      "image": {
+                        "url": "https://api.react-finland.fi/media/people/laurak.jpg"
+                      },
+                      "company": null,
+                      "social": {
+                        "twitter": "https://twitter.com/LauraKalbag",
+                        "homepage": "https://laurakalbag.com/"
+                      },
+                      "location": {
+                        "country": {
+                          "name": "Ireland",
+                          "code": "IE"
+                        },
+                        "city": "Cork"
+                      }
+                    }
+                  ],
+                  "urls": null
+                },
+                {
+                  "type": "TALK",
+                  "title": "Mysterious talk",
+                  "description": "",
+                  "people": [
+                    {
+                      "name": "Farzad Yz",
+                      "about": "Farzad is a Software developer focused on JavaScript and friends. He is usually fascinated by Tooling, Architecture, Automation and Software Patterns.",
+                      "aboutShort": "Farzad is a Software developer focused on JavaScript and friends.",
+                      "image": {
+                        "url": "https://api.react-finland.fi/media/people/farzad.jpg"
+                      },
+                      "company": null,
+                      "social": {
+                        "twitter": "https://twitter.com/farzad_yz",
+                        "homepage": "https://farzadyz.com/"
+                      },
+                      "location": {
+                        "country": {
+                          "name": "Finland",
+                          "code": "FI"
+                        },
+                        "city": "Helsinki"
+                      }
+                    }
+                  ],
+                  "urls": null
+                },
+                {
+                  "type": "TALK",
+                  "title": "Make legacy code delightful with statecharts",
+                  "description": "If you must have legacy code, you want it written in statecharts. We'll break down the mental models required for understanding unfamiliar UI code, and compare the maintenance costs with and without statecharts.",
+                  "people": [
+                    {
+                      "name": "Matt Pocock",
+                      "about": "Lead Developer at Stately. Trying to bring on the visual coding revolution.",
+                      "aboutShort": "Lead Developer at Stately.",
+                      "image": {
+                        "url": "https://api.react-finland.fi/media/people/matt.jpg"
+                      },
+                      "company": null,
+                      "social": {
+                        "twitter": "https://twitter.com/mpocock1",
+                        "homepage": null
+                      },
+                      "location": {
+                        "country": {
+                          "name": "Great Britain",
+                          "code": "GB"
+                        },
+                        "city": "Oxfordshire"
+                      }
+                    }
+                  ],
+                  "urls": null
+                }
+              ]
+            },
+            {
+              "begin": "16:00",
+              "end": "17:30",
+              "title": "GraphQL",
+              "sessions": [
+                {
+                  "type": "TALK",
+                  "title": "Automate your stack with GraphQL",
+                  "description": "Lukas will demonstrate how you can have your backend GraphQL in sync with your frontend code on a framework agnostic way.\n\n- Having the advantage of autocompletion while writing the GraphQL queries by IDE support\n- Built in type safety through static schemas\n- Automatic generated frontend code for your framework of choice (React, Vue.js, Angular)\n- Having everything rebuild through a built in watch mode",
+                  "people": [
+                    {
+                      "name": "Lukas Holzer",
+                      "about": "DesignOps — Frontend-Developer and Node.js enthusiast working @Dynatrace with a passion for enhancing design workflows",
+                      "aboutShort": "DesignOps — Frontend-Developer and Node.",
+                      "image": {
+                        "url": "https://api.react-finland.fi/media/people/lukas.jpg"
+                      },
+                      "company": null,
+                      "social": {
+                        "twitter": "https://twitter.com/luka5c0m",
+                        "homepage": null
+                      },
+                      "location": {
+                        "country": {
+                          "name": "Austria",
+                          "code": "AT"
+                        },
+                        "city": "Linz"
+                      }
+                    }
+                  ],
+                  "urls": null
+                },
+                {
+                  "type": "TALK",
+                  "title": "How to cache GraphQL queries at the edge",
+                  "description": "A demo and deep dive into GraphCDN, the edge caching GraphQL CDN.",
+                  "people": [
+                    {
+                      "name": "Max Stoiber",
+                      "about": "Creator of [Bedrock](https://bedrock.mxstbr.com), styled-components & react-boilerplate. Founder of [GraphCDN](https://graphcdn.io/).",
+                      "aboutShort": "Creator of [Bedrock](https://bedrock.",
+                      "image": {
+                        "url": "https://api.react-finland.fi/media/people/max.jpg"
+                      },
+                      "company": null,
+                      "social": {
+                        "twitter": "https://twitter.com/mxstbr",
+                        "homepage": "https://mxstbr.com/"
+                      },
+                      "location": {
+                        "country": {
+                          "name": "Austria",
+                          "code": "AT"
+                        },
+                        "city": "Vienna"
+                      }
+                    }
+                  ],
+                  "urls": null
+                },
+                {
+                  "type": "TALK",
+                  "title": "Using Apollo Federation in a microservice architecture in Kubernetes",
+                  "description": "Being flexible with Apollo Federation and autoscaling with Kubernetes opens many opportunities to scale your app. Jan will show how these two services work hand in hand and why autoscaling matters.",
+                  "people": [
+                    {
+                      "name": "Jan Peer Stöcklmair",
+                      "about": "Open-source contributor. JS fanatic. I love optimizing workflows.",
+                      "aboutShort": "Open-source contributor.",
+                      "image": {
+                        "url": "https://api.react-finland.fi/media/people/jan.png"
+                      },
+                      "company": null,
+                      "social": {
+                        "twitter": "https://twitter.com/jpeer264",
+                        "homepage": "https://jpeer.at/"
+                      },
+                      "location": {
+                        "country": {
+                          "name": "Austria",
+                          "code": "AT"
+                        },
+                        "city": "Vienna"
+                      }
+                    }
+                  ],
+                  "urls": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": "2021-09-02",
+          "description": "Thursday",
+          "intervals": [
+            {
+              "begin": "07:00",
+              "end": "08:30",
+              "title": "Techniques I",
+              "sessions": [
+                {
+                  "type": "TALK",
+                  "title": "How to Delegate your React Dialogs",
+                  "description": "How to properly hide modals / dialogs / drawers functionalities behind buttons that spawn them without cluttering container components.",
+                  "people": [
+                    {
+                      "name": "Calin Bogdan",
+                      "about": "JavaScript fellow, clean code maniac, minimalist.",
+                      "aboutShort": "JavaScript fellow, clean code maniac, minimalist.",
+                      "image": {
+                        "url": "https://api.react-finland.fi/media/people/calinb.jpg"
+                      },
+                      "company": null,
+                      "social": {
+                        "twitter": "https://twitter.com/calinesque",
+                        "homepage": "https://calinbogdan.com/"
+                      },
+                      "location": {
+                        "country": {
+                          "name": "Romania",
+                          "code": "RO"
+                        },
+                        "city": ""
+                      }
+                    }
+                  ],
+                  "urls": null
+                },
+                {
+                  "type": "TALK",
+                  "title": "Testing the integrity of your React components by publishing in a private registry",
+                  "description": "The final stage of a react component is when it is being published and distributed. How can I ensure my packages won’t crash in production? This talk will help you to test your React components by publishing them to a private registry and running End-to-End tests against them.",
+                  "people": [
+                    {
+                      "name": "Juan Picado",
+                      "about": "Lead maintainer for 📦🔒 [Verdaccio](https://verdaccio.org) • 👨🏽‍💻 React and Node.js developer • Open Source believer",
+                      "aboutShort": "Lead maintainer for 📦🔒 [Verdaccio](https://verdaccio.",
+                      "image": {
+                        "url": "https://api.react-finland.fi/media/people/juan.jpg"
+                      },
+                      "company": null,
+                      "social": {
+                        "twitter": "https://twitter.com/jotadeveloper",
+                        "homepage": "https://github.com/juanpicado"
+                      },
+                      "location": {
+                        "country": {
+                          "name": "Germany",
+                          "code": "DE"
+                        },
+                        "city": "Berlin"
+                      }
+                    }
+                  ],
+                  "urls": null
+                },
+                {
+                  "type": "TALK",
+                  "title": "The Eternal Sunshine of the Zero Build Pipeline",
+                  "description": "For many years, we have migrated all our devtools to Node.js for the sake of simplicity: a common language (JS/TS), a large ecosystem (NPM), and a powerful engine. In the meantime, we moved a lot of computation tasks to the client-side thanks to PWA and JavaScript Hegemony.\n\nSo we made Webapps for years, developing with awesome reactive frameworks and bundling a lot of dependencies. We progressively moved from our simplicity to complex apps toolchains. We've become the new Java-like ecosystem. It sucks.\n          \nIt's 2021, we've got a lot of new technologies to sustain our Users eXperience. It's time to have a break and rethink our tools rather than going faster and faster in the same direction. It's time to redesign the Developer eXperience. It's time for a bundle-free dev environment. It's time to embrace a new frontend building philosophy, still with our lovely JavaScript.\n          \nIntroducing Snowpack, Vite, Astro, and other Bare Modules tools concepts!",
+                  "people": [
+                    {
+                      "name": "m4dz 🥑🦄",
+                      "about": "Principal Developer Advocate at ‹div›RIOTS - makers of Backlight, a Design Systems IDE built for Designers and Developers - m4dz is a curious animal. Former Frontend Dev, Devtools enthusiast, he has made the Developer eXperience (DX) his cherished topic. All the Web technologies are under his radar to get things ever simpler. His moto: \"Developers are users just like you.\" As a life-long dreamer his favorite book will ever remains \"Alice's Adventures in Wonderland\".",
+                      "aboutShort": "Principal Developer Advocate at ‹div›RIOTS - makers of Backlight, a Design Systems IDE built for Designers and Developers - m4dz is a curious animal.",
+                      "image": {
+                        "url": "https://api.react-finland.fi/media/people/m4dz.jpg"
+                      },
+                      "company": null,
+                      "social": {
+                        "twitter": "https://twitter.com/m4d_z",
+                        "homepage": "https://m4dz.net/"
+                      },
+                      "location": {
+                        "country": {
+                          "name": "France",
+                          "code": "FR"
+                        },
+                        "city": "Lyon"
+                      }
+                    }
+                  ],
+                  "urls": null
+                }
+              ]
+            },
+            {
+              "begin": "10:00",
+              "end": "11:30",
+              "title": "Frameworks",
+              "sessions": [
+                {
+                  "type": "TALK",
+                  "title": "Aleph.js - Build your React app in Deno",
+                  "description": "A demo on Aleph.js about good development experience and deno runtime.",
+                  "people": [
+                    {
+                      "name": "Je Xia",
+                      "about": "Web developer and graphic designer. Creator of Aleph.js and esm.sh.",
+                      "aboutShort": "Web developer and graphic designer.",
+                      "image": {
+                        "url": "https://api.react-finland.fi/media/people/je.jpg"
+                      },
+                      "company": null,
+                      "social": {
+                        "twitter": "https://twitter.com/jexia_",
+                        "homepage": "http://jex.me/"
+                      },
+                      "location": {
+                        "country": {
+                          "name": "China",
+                          "code": "CN"
+                        },
+                        "city": "Beijing"
+                      }
+                    }
+                  ],
+                  "urls": null
+                },
+                {
+                  "type": "TALK",
+                  "title": "SSR & SSG in NextJS",
+                  "description": "In this talk we are going to have a look on how to use Server-Side-Rendering and Static-Site-Generation in NextJS to serve pages.",
+                  "people": [
+                    {
+                      "name": "Nur Şah Ketene",
+                      "about": "Managing Consultant @ Columbia Road, Advisor, Coach, Teacher.",
+                      "aboutShort": "Managing Consultant @ Columbia Road, Advisor, Coach, Teacher.",
+                      "image": {
+                        "url": "https://api.react-finland.fi/media/people/nur.jpg"
+                      },
+                      "company": null,
+                      "social": {
+                        "twitter": "https://twitter.com/nursahketene",
+                        "homepage": "https://nursahketene.com/"
+                      },
+                      "location": {
+                        "country": {
+                          "name": "Finland",
+                          "code": "FI"
+                        },
+                        "city": "Helsinki"
+                      }
+                    }
+                  ],
+                  "urls": null
+                },
+                {
+                  "type": "TALK",
+                  "title": "Brief introduction to Nuxt",
+                  "description": "In this brief introduction of Nuxt, we will learn Nuxt basics and how to build Git-files based content management system using Nuxt.js and its module system.",
+                  "people": [
+                    {
+                      "name": "Krutie Patel",
+                      "about": "I'm a front-end developer. I create interactive web stuff using Vue js and Nuxt js. Some other frameworks and libraries I also enjoy working with include GSAP, Laravel ⚡️ and Jamstack (JavaScript, APIs + Markup). I love writing ✏️ articles about what I learn and share with Vue/Nuxt community. You can find my blog-posts on my [ website](https://krutiepatel.com/blog), which is also created using 👑 Nuxt js.\n\nApart from this, I also love creating [colour-coded diagrams](https://krutiepatel.com/diagrams). I create them to capture and document my learning. Diagraming have been an effective tool in my learning journey of Laravel, Vue js and of course, my absolute favourite, Nuxt js.",
+                      "aboutShort": "I'm a front-end developer.",
+                      "image": {
+                        "url": "https://api.react-finland.fi/media/people/krutie.jpg"
+                      },
+                      "company": null,
+                      "social": {
+                        "twitter": "https://twitter.com/KrutiePatel",
+                        "homepage": "https://krutiepatel.com/"
+                      },
+                      "location": {
+                        "country": {
+                          "name": "Australia",
+                          "code": "AU"
+                        },
+                        "city": ""
+                      }
+                    }
+                  ],
+                  "urls": null
+                }
+              ]
+            },
+            {
+              "begin": "12:00",
+              "end": "13:30",
+              "title": "Documentation",
+              "sessions": [
+                {
+                  "type": "TALK",
+                  "title": "Mysterious talk",
+                  "description": "",
+                  "people": [
+                    {
+                      "name": "Rachel Nabors",
+                      "about": "React Core. Interactive storyteller. Infinite learner. Lightning before the thunder. Author of [Animation at Work](http://bkaprt.com/aaw), Google Dev Expert—Formerly W3C, MSFT. INFJ singleton",
+                      "aboutShort": "React Core.",
+                      "image": {
+                        "url": "https://api.react-finland.fi/media/people/rachel.jpg"
+                      },
+                      "company": null,
+                      "social": {
+                        "twitter": "https://twitter.com/rachelnabors",
+                        "homepage": "http://rachelnabors.com"
+                      },
+                      "location": {
+                        "country": {
+                          "name": "Great Britain",
+                          "code": "GB"
+                        },
+                        "city": "London"
+                      }
+                    }
+                  ],
+                  "urls": null
+                },
+                {
+                  "type": "TALK",
+                  "title": "Mysterious talk",
+                  "description": "",
+                  "people": [
+                    {
+                      "name": "Patrick Ecker",
+                      "about": "Patrick is a JavaScript Software Engineer and freelancer, mostly known for his contributions to the Flow type checker ecosystem and his recent work at Runtastic, where he spent most of his time working on the Mobile News Feed feature (built in React Native). Most of his Open Source time is dedicated to the ReasonML and OCaml platform to build robust, type-safe JS applications.",
+                      "aboutShort": "Patrick is a JavaScript Software Engineer and freelancer, mostly known for his contributions to the Flow type checker ecosystem and his recent work at Runtastic, where he spent most of his time working on the Mobile News Feed feature (built in React Native).",
+                      "image": {
+                        "url": "https://api.react-finland.fi/media/people/patrick.jpg"
+                      },
+                      "company": null,
+                      "social": {
+                        "twitter": "https://twitter.com/ryyppy",
+                        "homepage": null
+                      },
+                      "location": {
+                        "country": {
+                          "name": "Austria",
+                          "code": "AT"
+                        },
+                        "city": "Vienna"
+                      }
+                    }
+                  ],
+                  "urls": null
+                }
+              ]
+            },
+            {
+              "begin": "15:00",
+              "end": "16:30",
+              "title": "Accessibility",
+              "sessions": [
+                {
+                  "type": "TALK",
+                  "title": "How to Catch Low-Hanging Accessibility Fruits while Developing",
+                  "description": "We, as developers, tend to develop sites for users like ourselves, which usually causes accessibility problems. As we are often sighted, can use a mouse, and have good fine motor skills, we might (unconsciously) forget those users who aren't like us. \n\nIn this demo, I will show some techniques every developer should know and use when developing their sites or apps. These simple checks don't ensure 100% accessibility but help catch the most obvious flaws in your site.",
+                  "people": [
+                    {
+                      "name": "Eeva-Jonna 'Eevis' Panula",
+                      "about": "Eevis is a software developer and accessibility specialist based in Finland. She loves sharing information about topics like accessibility, React and GraphQL, and is active in different communities aiming to increase equality in the tech field in Finland. When not coding, she explores the world around her with a kayak. ",
+                      "aboutShort": "Eevis is a software developer and accessibility specialist based in Finland.",
+                      "image": {
+                        "url": "https://api.react-finland.fi/media/people/eevis.jpg"
+                      },
+                      "company": null,
+                      "social": {
+                        "twitter": "https://twitter.com/EevisPanula",
+                        "homepage": "https://eevis.codes"
+                      },
+                      "location": {
+                        "country": {
+                          "name": "Finland",
+                          "code": "FI"
+                        },
+                        "city": "Helsinki"
+                      }
+                    }
+                  ],
+                  "urls": null
+                },
+                {
+                  "type": "TALK",
+                  "title": "Continuous Localization in Enterprise Web Projects",
+                  "description": "Did you know that 50% of users will NOT use the English version of your application, if it supports multiple languages? For ambitious high-growth businesses, going global is not \"if\" but \"when\" so it's important to recognize the importance of localization, especially in large multi-team projects. This discussion will explore the depths of localization in Agile companies and what can be achieved with a Continuous Localization system. I'll share some common issues we faced with multi-language products and how localization automation helped us to scale the process across many product teams within the company.",
+                  "people": [
+                    {
+                      "name": "Ante Tomić",
+                      "about": "Software Engineer at Infobip and occasional presenter.",
+                      "aboutShort": "Software Engineer at Infobip and occasional presenter.",
+                      "image": {
+                        "url": "https://api.react-finland.fi/media/people/ante.jpg"
+                      },
+                      "company": null,
+                      "social": {
+                        "twitter": null,
+                        "homepage": null
+                      },
+                      "location": {
+                        "country": {
+                          "name": "Croatia",
+                          "code": "HR"
+                        },
+                        "city": "Zagreb"
+                      }
+                    }
+                  ],
+                  "urls": null
+                },
+                {
+                  "type": "TALK",
+                  "title": "The Digital Accessibility Legal Landscape – why it matters for developers ",
+                  "description": "Digital accessibility is a human right of people with disabilities around the globe.  That means developers have an important role to play in advancing human rights!  Join U.S. disability rights lawyer Lainey Feingold for a practical interactive discussion about laws and policies around the globe that impact digital accessibility. Come learn best practices for digital accessibility and how we all can “put the law in our pocket” to help make the digital world inclusive for everyone.",
+                  "people": [
+                    {
+                      "name": "Lainey Feingold",
+                      "about": "Lainey Feingold is a disability rights lawyer in the United States who has worked to make the digital world more inclusive since 1995 and negotiated the first web accessibility agreement in the United States in 2000. Lainey is an international speaker and the Digital Accessibility Resource for the global business to business non-profit Disability:IN.  Lainey believes in collaboration over conflict. She developed and practices Structured Negotiation, a problem-solving strategy that avoids lawsuits and focuses on lasting change and relationship-building in the digital accessibility space. She is the author of Structured Negotiation: A Winning Alternative to Lawsuits.",
+                      "aboutShort": "Lainey Feingold is a disability rights lawyer in the United States who has worked to make the digital world more inclusive since 1995 and negotiated the first web accessibility agreement in the United States in 2000.",
+                      "image": {
+                        "url": "https://api.react-finland.fi/media/people/lainey.jpg"
+                      },
+                      "company": null,
+                      "social": {
+                        "twitter": "https://twitter.com/lflegal",
+                        "homepage": "https://www.lflegal.com/"
+                      },
+                      "location": {
+                        "country": {
+                          "name": "United States",
+                          "code": "US"
+                        },
+                        "city": "San Francisco"
+                      }
+                    }
+                  ],
+                  "urls": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": "2021-09-03",
+          "description": "Friday",
+          "intervals": [
+            {
+              "begin": "07:00",
+              "end": "08:30",
+              "title": "React Native and Testing",
+              "sessions": [
+                {
+                  "type": "TALK",
+                  "title": "Screenshot testing with Viteshot",
+                  "description": "François will introduce Viteshot, a new library that makes screenshot testing fast and simple, so you can be confident that your components look exactly the way they're supposed to.",
+                  "people": [
+                    {
+                      "name": "François Wouts",
+                      "about": "🚀 Developer Happiness Engineer",
+                      "aboutShort": "🚀 Developer Happiness Engineer.",
+                      "image": {
+                        "url": "https://api.react-finland.fi/media/people/francois.jpg"
+                      },
+                      "company": null,
+                      "social": {
+                        "twitter": "https://twitter.com/fwouts",
+                        "homepage": "https://fwouts.com/"
+                      },
+                      "location": {
+                        "country": {
+                          "name": "Australia",
+                          "code": "AU"
+                        },
+                        "city": "Sydney"
+                      }
+                    }
+                  ],
+                  "urls": null
+                },
+                {
+                  "type": "TALK",
+                  "title": "Integration Testing for React Native Apps",
+                  "description": "My unpopular opinion is that testing is ... important. How do you test your React Native apps? In this presentation I will show how to run full integrations tests using Cypress while the RN app is running in the browser. This method can cover most of the application's code and be effective at finding logical errors and mistakes when calling the server APIs.",
+                  "people": [
+                    {
+                      "name": "Gleb Bahmutov",
+                      "about": "JavaScript ninja, image processing expert, software quality fanatic. Sr Director of Engineering at Mercari US. MS MVP for OSS work.",
+                      "aboutShort": "JavaScript ninja, image processing expert, software quality fanatic.",
+                      "image": {
+                        "url": "https://api.react-finland.fi/media/people/gleb.jpg"
+                      },
+                      "company": null,
+                      "social": {
+                        "twitter": "https://twitter.com/bahmutov",
+                        "homepage": "https://glebbahmutov.com/"
+                      },
+                      "location": {
+                        "country": {
+                          "name": "United States",
+                          "code": "US"
+                        },
+                        "city": "Boston"
+                      }
+                    }
+                  ],
+                  "urls": null
+                },
+                {
+                  "type": "TALK",
+                  "title": "Haptics, Sounds and Micro Animations",
+                  "description": "Quick tips on how to utilise the native mobile platform to help provide your users an upgraded experience with sounds, vibrations and animations. Small changes can have a huge difference UX-wise.",
+                  "people": [
+                    {
+                      "name": "Kadi Kraman",
+                      "about": "Kadi is a Software Engineer at Formidable, JavaScript enthusiast, believer in open source and a huge fan of sticking JavaScript on every possible platform.",
+                      "aboutShort": "Kadi is a Software Engineer at Formidable, JavaScript enthusiast, believer in open source and a huge fan of sticking JavaScript on every possible platform.",
+                      "image": {
+                        "url": "https://api.react-finland.fi/media/people/kadi.jpg"
+                      },
+                      "company": null,
+                      "social": {
+                        "twitter": "https://twitter.com/kadikraman",
+                        "homepage": null
+                      },
+                      "location": {
+                        "country": {
+                          "name": "Estonia",
+                          "code": "EE"
+                        },
+                        "city": "London"
+                      }
+                    }
+                  ],
+                  "urls": null
+                }
+              ]
+            },
+            {
+              "begin": "10:00",
+              "end": "11:30",
+              "title": "Scaling",
+              "sessions": [
+                {
+                  "type": "TALK",
+                  "title": "Design Systems of a Down: Steal this Guide!",
+                  "description": "Remember Atomic Design? It's been a while since we started talking about Design Systems. They're supposed to solve our interfaces inconsistencies issues, as a single source of truth. But do you know well how to build and use them, from a developer perspective?\n\nHere's your ultimate guide to Design Systems, for Devs! From the fundamentals of Design Tokens definition, to how to build advanced versatile layouts. You'll learn all best practices, tips & tricks, components splicing strategies, from this comprehensive step-by-step handbook talk.\n\nNever be lost again in front of a creating Design System from scratch!",
+                  "people": [
+                    {
+                      "name": "m4dz 🥑🦄",
+                      "about": "Principal Developer Advocate at ‹div›RIOTS - makers of Backlight, a Design Systems IDE built for Designers and Developers - m4dz is a curious animal. Former Frontend Dev, Devtools enthusiast, he has made the Developer eXperience (DX) his cherished topic. All the Web technologies are under his radar to get things ever simpler. His moto: \"Developers are users just like you.\" As a life-long dreamer his favorite book will ever remains \"Alice's Adventures in Wonderland\".",
+                      "aboutShort": "Principal Developer Advocate at ‹div›RIOTS - makers of Backlight, a Design Systems IDE built for Designers and Developers - m4dz is a curious animal.",
+                      "image": {
+                        "url": "https://api.react-finland.fi/media/people/m4dz.jpg"
+                      },
+                      "company": null,
+                      "social": {
+                        "twitter": "https://twitter.com/m4d_z",
+                        "homepage": "https://m4dz.net/"
+                      },
+                      "location": {
+                        "country": {
+                          "name": "France",
+                          "code": "FR"
+                        },
+                        "city": "Lyon"
+                      }
+                    }
+                  ],
+                  "urls": null
+                },
+                {
+                  "type": "TALK",
+                  "title": "How to structure, style and document your components for maximum effectiveness",
+                  "description": "I'll present a practical approach to styling react components, a folder structure and documentation structure that's very easy to follow (for onboarding members) + other insights I got while using this approach.",
+                  "people": [
+                    {
+                      "name": "Dragos Bilaniuc",
+                      "about": "Freelancer • Web and Mobile Tech Lead/PM • Occasional public speaker | I will help you articulate your idea, develop your product and pitch your business.",
+                      "aboutShort": "Freelancer • Web and Mobile Tech Lead/PM • Occasional public speaker | I will help you articulate your idea, develop your product and pitch your business.",
+                      "image": {
+                        "url": "https://api.react-finland.fi/media/people/dragos.jpg"
+                      },
+                      "company": null,
+                      "social": {
+                        "twitter": "https://twitter.com/dragosbln",
+                        "homepage": "https://dbln.me/"
+                      },
+                      "location": {
+                        "country": {
+                          "name": "Romania",
+                          "code": "RO"
+                        },
+                        "city": "Cluj-Napoca"
+                      }
+                    }
+                  ],
+                  "urls": null
+                },
+                {
+                  "type": "TALK",
+                  "title": "React on Steroids with Nx!",
+                  "description": "We often talk and hear about scaling in production, but we rarely talk about scaling development. Aspects like structuring and organizing your codebase, code sharing across teams, speeding up build and test runs can play a huge role in terms of productivity for a developer team. That impacts small teams but gets even more evident as your team grows and especially for large enterprises.\n\nIn this short talk I'm going to demo Nx and what it can do for you to help you modularize your React code, generate code for you, help you build faster and much more. Tune in to learn about the build framework you've been missing in your tool belt!",
+                  "people": [
+                    {
+                      "name": "Juri Strumpflohner",
+                      "about": "Juri Strumpflohner lives in the very northern part of Italy and is currently working as a JavaScript Architect and Engineering Manager at Nrwl, where he consults for some of the world's biggest companies around the globe. Juri is very involved in the community. He's a Google Developer Expert in Web Technologies & Angular, speaks at international conferences, teaches on Egghead.io, or writes articles on https://juri.dev. He's also a core member of Nx.",
+                      "aboutShort": "Juri Strumpflohner lives in the very northern part of Italy and is currently working as a JavaScript Architect and Engineering Manager at Nrwl, where he consults for some of the world's biggest companies around the globe.",
+                      "image": {
+                        "url": "https://api.react-finland.fi/media/people/juri.jpg"
+                      },
+                      "company": null,
+                      "social": {
+                        "twitter": "https://twitter.com/juristr",
+                        "homepage": "https://juristr.com/"
+                      },
+                      "location": {
+                        "country": {
+                          "name": "Italy",
+                          "code": "IT"
+                        },
+                        "city": "Bolzano"
+                      }
+                    }
+                  ],
+                  "urls": null
+                }
+              ]
+            },
+            {
+              "begin": "12:00",
+              "end": "13:30",
+              "title": "Techniques II",
+              "sessions": [
+                {
+                  "type": "TALK",
+                  "title": "Video streaming on the web: Live and recorded video streaming",
+                  "description": "In this presentation, we'll present how video streaming works.  We'll look at the anatomy of video streaming, and how video streaming is beneficial for delivering your content over just adding mp4 files.\n\nWe'll demonstrate live streaming **from** the browser, and then how to integrate that live stream into your webpage.",
+                  "people": [
+                    {
+                      "name": "Doug Sillars",
+                      "about": "Head of Developer Relations at api.video",
+                      "aboutShort": "Head of Developer Relations at api.",
+                      "image": {
+                        "url": "https://api.react-finland.fi/media/people/doug.jpg"
+                      },
+                      "company": null,
+                      "social": {
+                        "twitter": "https://twitter.com/dougsillars",
+                        "homepage": null
+                      },
+                      "location": {
+                        "country": {
+                          "name": "United States",
+                          "code": "US"
+                        },
+                        "city": ""
+                      }
+                    }
+                  ],
+                  "urls": null
+                },
+                {
+                  "type": "TALK",
+                  "title": "On The Road To The World's Best Branding",
+                  "description": "In this talk we'll take a closer how we do event branding and theming at Brella, and how we want to progress it in the future. Topics such as generating accessible colors will be discussed.",
+                  "people": [
+                    {
+                      "name": "Niklas Lepistö",
+                      "about": "Senior Frontend Developer at Brella",
+                      "aboutShort": "Senior Frontend Developer at Brella.",
+                      "image": {
+                        "url": "https://api.react-finland.fi/media/people/niklas.jpg"
+                      },
+                      "company": null,
+                      "social": {
+                        "twitter": "https://twitter.com/laznic",
+                        "homepage": null
+                      },
+                      "location": {
+                        "country": {
+                          "name": "Finland",
+                          "code": "FI"
+                        },
+                        "city": "Helsinki"
+                      }
+                    }
+                  ],
+                  "urls": null
+                },
+                {
+                  "type": "TALK",
+                  "title": "You thought your React application is secure? Think again",
+                  "description": "Modern frontend frameworks like React are well thought-of in their application security design and that’s great. However, there is still plenty of room for developers to make mistakes and use insecure APIs, vulnerable components, or generally do the wrong thing that turns user input into a Cross-site Scripting vulnerability (XSS). Let me show you how React applications get hacked in the real-world.",
+                  "people": [
+                    {
+                      "name": "Liran Tal",
+                      "about": "GitHub Star 🌟 · DevRel at Snyk 🥑 · Author of [Essential Node.js Security](http://bit.ly/securenodejs) · Node.js CLI Best Practices 🔥 · Docker security 🐳",
+                      "aboutShort": "GitHub Star 🌟 · DevRel at Snyk 🥑 · Author of [Essential Node.",
+                      "image": {
+                        "url": "https://api.react-finland.fi/media/people/liran.jpg"
+                      },
+                      "company": null,
+                      "social": {
+                        "twitter": "https://twitter.com/liran_tal",
+                        "homepage": null
+                      },
+                      "location": {
+                        "country": {
+                          "name": "Israel",
+                          "code": "IL"
+                        },
+                        "city": "Tel Aviv"
+                      }
+                    }
+                  ],
+                  "urls": null
+                }
+              ]
+            },
+            {
+              "begin": "15:00",
+              "end": "17:00",
+              "title": "The future of work",
+              "sessions": [
+                {
+                  "type": "TALK",
+                  "title": "The future of software development in Finland",
+                  "description": "Finland's the happy nation and in need of very many newcomers to the country especially in the tech field. What's realistic to expect in the future Finnish job market as a developer? Where do we expect the developer jobs to progress in the future?",
+                  "people": [
+                    {
+                      "name": "Saku Tihveräinen",
+                      "about": "Executive Talent Agent | Part-time PhD Researcher",
+                      "aboutShort": "Executive Talent Agent | Part-time PhD Researcher.",
+                      "image": {
+                        "url": "https://api.react-finland.fi/media/people/saku.jpg"
+                      },
+                      "company": null,
+                      "social": {
+                        "twitter": "https://twitter.com/SakuTihverainen",
+                        "homepage": null
+                      },
+                      "location": {
+                        "country": {
+                          "name": "Finland",
+                          "code": "FI"
+                        },
+                        "city": "Helsinki"
+                      }
+                    }
+                  ],
+                  "urls": null
+                },
+                {
+                  "type": "TALK",
+                  "title": "Becoming a React developer - A hiring manager’s perspective",
+                  "description": "The landscape of popular JS frameworks and libraries has become increasingly polarised. With React standing out an increasing number of companies are struggling to find skilled developers. People experienced in React are in a great position. Nevertheless, what if my CV lacks the right keyword? What if my Angular experience looks more like a burden? Can I apply for a front-end developer position in a React project?",
+                  "people": [
+                    {
+                      "name": "Mika Schafroth",
+                      "about": "Business-oriented software product engineer (M.Sc. in computer science) featuring 15 years of professional involvement in the entire life-cycle of digital products. Experience developing a variety of disruptive Internet technologies. Insights into modern travel, smart cities, the gig economy and social networking services.",
+                      "aboutShort": "Business-oriented software product engineer (M.",
+                      "image": {
+                        "url": "https://api.react-finland.fi/media/people/mika.jpg"
+                      },
+                      "company": null,
+                      "social": {
+                        "twitter": null,
+                        "homepage": null
+                      },
+                      "location": {
+                        "country": {
+                          "name": "Finland",
+                          "code": "FI"
+                        },
+                        "city": "Helsinki"
+                      }
+                    }
+                  ],
+                  "urls": null
+                },
+                {
+                  "type": "TALK",
+                  "title": "The future of work is enjoyable",
+                  "description": "We’re generally afraid of the future. Not only is it unknown, but there’s quite a lot of reasons to believe we’re practically doomed. And it doesn’t help that we’re negatively wired by nature, programmed to look out for risks more than search for rewards. Developers especially so.\n\nSo with this speech, I want to paint another picture for you. I genuinely believe, the future of work is enjoyable and definitely worth pursuing. And you can have that. Right after this speech.",
+                  "people": [
+                    {
+                      "name": "Elisa Heikura",
+                      "about": "Elisa is the Developer of People which is a fancy way of saying that she’s into soft skills such as communication, teamwork and self-awareness. For the past three years she has spent her days teaching and facilitating teams full of technical experts. Which, for her, is truly enjoyable work.",
+                      "aboutShort": "Elisa is the Developer of People which is a fancy way of saying that she’s into soft skills such as communication, teamwork and self-awareness.",
+                      "image": {
+                        "url": "https://api.react-finland.fi/media/people/elisa.jpg"
+                      },
+                      "company": null,
+                      "social": {
+                        "twitter": "https://twitter.com/elisaliisa",
+                        "homepage": "https://koodarikuiskaaja.fi/"
+                      },
+                      "location": {
+                        "country": {
+                          "name": "Finland",
+                          "code": "FI"
+                        },
+                        "city": ""
+                      }
+                    }
+                  ],
+                  "urls": null
+                },
+                {
+                  "type": "TALK",
+                  "title": "Closing",
+                  "description": "The conference has reached its end. What did we learn and where do we go from here (2022)?",
+                  "people": [
+                    {
+                      "name": "Juho Vepsäläinen",
+                      "about": "Juho Vepsäläinen is behind the SurviveJS effort. He has been active in the open source scene since the early 2000s and participated in projects like Blender and webpack as a core team member. Blue Arrow Awards winner.",
+                      "aboutShort": "Juho Vepsäläinen is behind the SurviveJS effort.",
+                      "image": {
+                        "url": "https://api.react-finland.fi/media/people/juho.jpg"
+                      },
+                      "company": "SurviveJS Oy",
+                      "social": {
+                        "twitter": "https://twitter.com/bebraw",
+                        "homepage": "https://survivejs.com/"
+                      },
+                      "location": {
+                        "country": {
+                          "name": "Austria",
+                          "code": "AT"
+                        },
+                        "city": "Vienna"
+                      }
+                    }
+                  ],
+                  "urls": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
