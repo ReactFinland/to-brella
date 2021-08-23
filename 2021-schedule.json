@@ -7,111 +7,6 @@
           "description": "Monday",
           "intervals": [
             {
-              "begin": "11:00",
-              "end": "15:00",
-              "title": null,
-              "sessions": [
-                {
-                  "type": "WORKSHOP",
-                  "title": "Modeling React Apps with XState",
-                  "description": "In this workshop, you will become familiar with XState and learn to apply it in your daily work. If you have ever wanted to pick up state machines and statecharts, this is a good chance to do it.",
-                  "people": [
-                    {
-                      "name": "David Khourshid",
-                      "about": "David Khourshid is a Florida-based web developer for Microsoft, a tech author, and speaker. Also a fervent open-source contributor, he is passionate about JavaScript, CSS, animation, innovative user interfaces, and cutting-edge front-end technologies. When not behind a computer keyboard, he’s behind a piano keyboard or traveling.",
-                      "aboutShort": "David Khourshid is a Florida-based web developer for Microsoft, a tech author, and speaker.",
-                      "image": {
-                        "url": "https://api.react-finland.fi/media/people/david.jpg"
-                      },
-                      "company": null,
-                      "social": {
-                        "twitter": "https://twitter.com/davidkpiano",
-                        "homepage": null
-                      },
-                      "location": {
-                        "country": {
-                          "name": "United States",
-                          "code": "US"
-                        },
-                        "city": "Orlando"
-                      }
-                    }
-                  ],
-                  "urls": null
-                }
-              ]
-            },
-            {
-              "begin": "12:00",
-              "end": "15:00",
-              "title": null,
-              "sessions": [
-                {
-                  "type": "WORKSHOP",
-                  "title": "Video on the web",
-                  "description": "Video is one of the fastest growing mediums on the web and in mobile applications. Video files have been shown to increase engagement, and can be a great way to deliver your message quickly. (And who doesn’t love animated GIFs?)\n\nHowever, video that takes a long time to start up leads to frustration and abandonment. The same goes for video that stalls during playback. In this workshop, you’ll learn best practices to optimize the delivery of your video to you customers, ensuring fast delivery and minimizing stalls for a great customer experience.",
-                  "people": [
-                    {
-                      "name": "Doug Sillars",
-                      "about": "Head of Developer Relations at api.video",
-                      "aboutShort": "Head of Developer Relations at api.",
-                      "image": {
-                        "url": "https://api.react-finland.fi/media/people/doug.jpg"
-                      },
-                      "company": null,
-                      "social": {
-                        "twitter": "https://twitter.com/dougsillars",
-                        "homepage": null
-                      },
-                      "location": {
-                        "country": {
-                          "name": "United States",
-                          "code": "US"
-                        },
-                        "city": ""
-                      }
-                    }
-                  ],
-                  "urls": null
-                }
-              ]
-            },
-            {
-              "begin": "14:00",
-              "end": "17:00",
-              "title": null,
-              "sessions": [
-                {
-                  "type": "WORKSHOP",
-                  "title": "Testing React Native Apps Using Cypress",
-                  "description": "How to run React Native apps in the browser using react-native-web and Expo, then how to run end-to-end tests with Cypress. We can add code coverage reporting and executing tests on CI, giving us high confidence in our application's code. Finally, we will learn how to mock the native components during tests.",
-                  "people": [
-                    {
-                      "name": "Gleb Bahmutov",
-                      "about": "JavaScript ninja, image processing expert, software quality fanatic. Sr Director of Engineering at Mercari US. MS MVP for OSS work.",
-                      "aboutShort": "JavaScript ninja, image processing expert, software quality fanatic.",
-                      "image": {
-                        "url": "https://api.react-finland.fi/media/people/gleb.jpg"
-                      },
-                      "company": null,
-                      "social": {
-                        "twitter": "https://twitter.com/bahmutov",
-                        "homepage": "https://glebbahmutov.com/"
-                      },
-                      "location": {
-                        "country": {
-                          "name": "United States",
-                          "code": "US"
-                        },
-                        "city": "Boston"
-                      }
-                    }
-                  ],
-                  "urls": null
-                }
-              ]
-            },
-            {
               "begin": "16:00",
               "end": "18:00",
               "title": "Opening",
@@ -135,8 +30,7 @@
                       },
                       "location": {
                         "country": {
-                          "name": "Great Britain",
-                          "code": "GB"
+                          "name": "Great Britain"
                         },
                         "city": ""
                       }
@@ -163,8 +57,7 @@
                       },
                       "location": {
                         "country": {
-                          "name": "United States",
-                          "code": "US"
+                          "name": "United States"
                         },
                         "city": "Orlando"
                       }
@@ -191,8 +84,7 @@
                       },
                       "location": {
                         "country": {
-                          "name": "United States",
-                          "code": "US"
+                          "name": "United States"
                         },
                         "city": "San Jose"
                       }
@@ -219,8 +111,7 @@
                       },
                       "location": {
                         "country": {
-                          "name": "United States",
-                          "code": "US"
+                          "name": "United States"
                         },
                         "city": "San Diego"
                       }
@@ -260,8 +151,7 @@
                       },
                       "location": {
                         "country": {
-                          "name": "Austria",
-                          "code": "AT"
+                          "name": "Austria"
                         },
                         "city": "Vienna"
                       }
@@ -279,7 +169,7 @@
                 {
                   "type": "WORKSHOP",
                   "title": "Powering Next.js with Drupal",
-                  "description": "This session will cover why and how to fully decouple Drupal with Next.JS, an open source modern frontend framework that will empower frontend developers to build incredibly fast and interactive websites using React without losing key benefits that Drupal provides like content modeling and administration UI.\n          \nJoin us if you want to discover the ins and outs of how Drupal and Gatsby ecosystem complement each other.",
+                  "description": "This session will cover why and how to fully decouple Drupal with Next.JS, an open source modern frontend framework that will empower frontend developers to build incredibly fast and interactive websites using React without losing key benefits that Drupal provides like content modeling and administration UI.\n          \nJoin us if you want to discover the ins and outs of how Drupal and Gatsby ecosystem complement each other.\n\n**Sold out!**",
                   "people": [
                     {
                       "name": "David Corbacho Roman",
@@ -295,8 +185,7 @@
                       },
                       "location": {
                         "country": {
-                          "name": "Finland",
-                          "code": "FI"
+                          "name": "Finland"
                         },
                         "city": "Helsinki"
                       }
@@ -315,45 +204,9 @@
                       },
                       "location": {
                         "country": {
-                          "name": "Finland",
-                          "code": "FI"
+                          "name": "Finland"
                         },
                         "city": "Helsinki"
-                      }
-                    }
-                  ],
-                  "urls": null
-                }
-              ]
-            },
-            {
-              "begin": "10:00",
-              "end": "14:00",
-              "title": null,
-              "sessions": [
-                {
-                  "type": "WORKSHOP",
-                  "title": "MicroFrontends in React",
-                  "description": "Our first MicroFrontend project started almost to the day exactly five years ago and since then we have accompanied countless projects following this architectural style. Ever since, the technical possibilities with which MicroFrontends can be implemented have changed significantly and the options have increased considerably.\n\nOn the client-side we came from dilettante approaches based on iFrames and settled up with more elaborated strategies like Webpack Module-Federation or EcmaScript Import-Maps. We moved from pure Edge-Side-Includes to full fletched frameworks that allow us to compose MicroFrontends more comfortably and sustainably on the server-side. And even during the implementation, we achieved entirely new possibilities by more mature ways to manage MonoRepos and distributed or incremental builds. By showing real-world examples, we will go into detail about the evolution of these different approaches.\n          \nUpon a closer look at the challenges that still remain, it will become clear that none of these new concepts and tools come for free but with a fair amount of newly introduced complexity. Ultimately, this workshop will explain the different possibilities to implement MicroFrontends in the past, the present, and the future. More importantly, it will leave you to know which of the available approaches is best suited for your specific task at hand.",
-                  "people": [
-                    {
-                      "name": "David Leitner",
-                      "about": "David is Coding Architect at SQUER, a Viennese Software Company, which is working with different stacks and environments, but always an overarching mission: connect ideas and provide impact — with technology. He spends much of his time on the frontlines tackling the challenges of scaling software and complex domains, with a strong focus on reactive systems, cloud-native architectures and state of the art web technologies. David enjoys sharing his knowledge as a speaker at conferences and as a lecturer for his post-diploma courses at the University of Applied Sciences Technikum Vienna.",
-                      "aboutShort": "David is Coding Architect at SQUER, a Viennese Software Company, which is working with different stacks and environments, but always an overarching mission: connect ideas and provide impact — with technology.",
-                      "image": {
-                        "url": "https://api.react-finland.fi/media/people/david-l.jpg"
-                      },
-                      "company": null,
-                      "social": {
-                        "twitter": "https://twitter.com/duffleit",
-                        "homepage": null
-                      },
-                      "location": {
-                        "country": {
-                          "name": "Austria",
-                          "code": "AT"
-                        },
-                        "city": "Vienna"
                       }
                     }
                   ],
@@ -385,8 +238,7 @@
                       },
                       "location": {
                         "country": {
-                          "name": "Romania",
-                          "code": "RO"
+                          "name": "Romania"
                         },
                         "city": "Cluj-Napoca"
                       }
@@ -413,8 +265,7 @@
                       },
                       "location": {
                         "country": {
-                          "name": "Finland",
-                          "code": "FI"
+                          "name": "Finland"
                         },
                         "city": "Helsinki"
                       }
@@ -441,8 +292,7 @@
                       },
                       "location": {
                         "country": {
-                          "name": "Austria",
-                          "code": "AT"
+                          "name": "Austria"
                         },
                         "city": "Vienna"
                       }
@@ -459,6 +309,121 @@
           "description": "Wednesday",
           "intervals": [
             {
+              "begin": "07:00",
+              "end": "09:00",
+              "title": "Inclusivity",
+              "sessions": [
+                {
+                  "type": "TALK",
+                  "title": "Reasons why we need inclusion",
+                  "description": "",
+                  "people": [
+                    {
+                      "name": "Nasim Selmani",
+                      "about": "Diversity, Equity & Inclusion | People Operations | Inclusive Leadership | Intersectionality | Producer",
+                      "aboutShort": "Diversity, Equity & Inclusion | People Operations | Inclusive Leadership | Intersectionality | Producer.",
+                      "image": {
+                        "url": "https://api.react-finland.fi/media/people/nasim.jpg"
+                      },
+                      "company": null,
+                      "social": {
+                        "twitter": "https://twitter.com/nasimselmani",
+                        "homepage": "https://www.deidei.co/"
+                      },
+                      "location": {
+                        "country": {
+                          "name": "Finland"
+                        },
+                        "city": "Helsinki"
+                      }
+                    }
+                  ],
+                  "urls": null
+                },
+                {
+                  "type": "TALK",
+                  "title": "Understanding unconscious bias",
+                  "description": "",
+                  "people": [
+                    {
+                      "name": "Kristopher Jackson",
+                      "about": "Experienced Business Development Specialist with a demonstrated history of working in the information technology and services industry. Skilled in Sales, Customer Relationship Management (CRM), Event Management, Management, and Account Management. Strong business development professional with a Finance focused in Economics, and African American History from University of Illinois at Urbana-Champaign.",
+                      "aboutShort": "Experienced Business Development Specialist with a demonstrated history of working in the information technology and services industry.",
+                      "image": {
+                        "url": "https://api.react-finland.fi/media/people/kristopher.jpg"
+                      },
+                      "company": null,
+                      "social": {
+                        "twitter": null,
+                        "homepage": null
+                      },
+                      "location": {
+                        "country": {
+                          "name": "Finland"
+                        },
+                        "city": "Helsinki"
+                      }
+                    }
+                  ],
+                  "urls": null
+                },
+                {
+                  "type": "TALK",
+                  "title": "Structural Racism",
+                  "description": "How our narrow understanding of racism (visible and interpersonal level) still stands in the way of racial equity and inclusion (in tech, too) and how racial bias can be seen in tech, products etc.",
+                  "people": [
+                    {
+                      "name": "Jasmin Assulin",
+                      "about": "CEO & Co-founder at deidei | Diversity, Equity, Inclusion & Comms specialist | She/her",
+                      "aboutShort": "CEO & Co-founder at deidei | Diversity, Equity, Inclusion & Comms specialist | She/her.",
+                      "image": {
+                        "url": "https://api.react-finland.fi/media/people/jasmin.jpg"
+                      },
+                      "company": null,
+                      "social": {
+                        "twitter": "https://twitter.com/jasminassulin",
+                        "homepage": "https://www.deidei.co/"
+                      },
+                      "location": {
+                        "country": {
+                          "name": "Finland"
+                        },
+                        "city": "Helsinki"
+                      }
+                    }
+                  ],
+                  "urls": null
+                },
+                {
+                  "type": "TALK",
+                  "title": "How to avoid bias or exclusion when recruiting",
+                  "description": "I focus on why inclusion is important in hiring and what are the inclusive hiring practices for any organization that could be taken into use. Inclusive hiring and evaluation process are the great window of opportunity that can truly support inclusion with practical actions. I offer practical tips and a way to implement small changes while working the way towards more inclusive hiring culture and strategy.",
+                  "people": [
+                    {
+                      "name": "Emmi Marjetta",
+                      "about": "Talent Acquisition & Employer Branding Manager at Hoxhunt",
+                      "aboutShort": "Talent Acquisition & Employer Branding Manager at Hoxhunt.",
+                      "image": {
+                        "url": "https://api.react-finland.fi/media/people/emmi.jpg"
+                      },
+                      "company": null,
+                      "social": {
+                        "twitter": null,
+                        "homepage": null
+                      },
+                      "location": {
+                        "country": {
+                          "name": "Finland"
+                        },
+                        "city": "Helsinki"
+                      }
+                    }
+                  ],
+                  "urls": null
+                }
+              ]
+            },
+            {
               "begin": "10:00",
               "end": "11:30",
               "title": "Styling",
@@ -466,7 +431,7 @@
                 {
                   "type": "TALK",
                   "title": "A thorough analysis of CSS-in-JS",
-                  "description": "There are more than 50 different CSS-in-JS libraries out there and each of them provides a unique set of features.\n\nInstead of reviewing each individual library, we’ll analyse the various features that these libraries have to offer, to better understand what approach better suits a specific use-case.",
+                  "description": "There are two mutually exclusive methods that CSS-in-JS libraries use to generate and ship styles to the browser. Both methods have benefits and downsides, so let’s analyze them in detail from the loading performance perspective.",
                   "people": [
                     {
                       "name": "Andrei Pfeiffer",
@@ -482,8 +447,7 @@
                       },
                       "location": {
                         "country": {
-                          "name": "Romania",
-                          "code": "RO"
+                          "name": "Romania"
                         },
                         "city": "Timisoara"
                       }
@@ -510,8 +474,7 @@
                       },
                       "location": {
                         "country": {
-                          "name": "Australia",
-                          "code": "AU"
+                          "name": "Australia"
                         },
                         "city": "Melbourne"
                       }
@@ -538,8 +501,7 @@
                       },
                       "location": {
                         "country": {
-                          "name": "United States",
-                          "code": "US"
+                          "name": "United States"
                         },
                         "city": "San Francisco"
                       }
@@ -573,8 +535,7 @@
                       },
                       "location": {
                         "country": {
-                          "name": "Argentina",
-                          "code": "AR"
+                          "name": "Argentina"
                         },
                         "city": "Buenos Aires"
                       }
@@ -601,8 +562,7 @@
                       },
                       "location": {
                         "country": {
-                          "name": "Italy",
-                          "code": "IT"
+                          "name": "Italy"
                         },
                         "city": "Bergamo"
                       }
@@ -629,8 +589,7 @@
                       },
                       "location": {
                         "country": {
-                          "name": "India",
-                          "code": "IN"
+                          "name": "India"
                         },
                         "city": ""
                       }
@@ -664,8 +623,7 @@
                       },
                       "location": {
                         "country": {
-                          "name": "Ireland",
-                          "code": "IE"
+                          "name": "Ireland"
                         },
                         "city": "Cork"
                       }
@@ -675,13 +633,13 @@
                 },
                 {
                   "type": "TALK",
-                  "title": "Mysterious talk",
-                  "description": "",
+                  "title": "The Actor Model: a new mental model for React",
+                  "description": "System-level state management in modern React applications is challenging. Usually, as the applications grow, the complexity of interaction between different parts of the application compounds. The more you need those isolated parts to talk, the higher the level of complexity. Usually, the common pitfalls of these communications are underestimated especially with the recent trend of State management that tends to keep the application state outside of React and distributed. In this talk, We'll see how the Actor Model architecture can come to the rescue and what makes it stand out compared to the other approaches.",
                   "people": [
                     {
                       "name": "Farzad Yz",
-                      "about": "Farzad is a Software developer focused on JavaScript and friends. He is usually fascinated by Tooling, Architecture, Automation and Software Patterns.",
-                      "aboutShort": "Farzad is a Software developer focused on JavaScript and friends.",
+                      "about": "Lead engineer @epicgames. Into State machines and Statecharts. Coach @mentorcruise",
+                      "aboutShort": "Lead engineer @epicgames.",
                       "image": {
                         "url": "https://api.react-finland.fi/media/people/farzad.jpg"
                       },
@@ -692,8 +650,7 @@
                       },
                       "location": {
                         "country": {
-                          "name": "Finland",
-                          "code": "FI"
+                          "name": "Finland"
                         },
                         "city": "Helsinki"
                       }
@@ -720,8 +677,7 @@
                       },
                       "location": {
                         "country": {
-                          "name": "Great Britain",
-                          "code": "GB"
+                          "name": "Great Britain"
                         },
                         "city": "Oxfordshire"
                       }
@@ -755,8 +711,7 @@
                       },
                       "location": {
                         "country": {
-                          "name": "Austria",
-                          "code": "AT"
+                          "name": "Austria"
                         },
                         "city": "Linz"
                       }
@@ -783,8 +738,7 @@
                       },
                       "location": {
                         "country": {
-                          "name": "Austria",
-                          "code": "AT"
+                          "name": "Austria"
                         },
                         "city": "Vienna"
                       }
@@ -811,8 +765,7 @@
                       },
                       "location": {
                         "country": {
-                          "name": "Austria",
-                          "code": "AT"
+                          "name": "Austria"
                         },
                         "city": "Vienna"
                       }
@@ -852,8 +805,7 @@
                       },
                       "location": {
                         "country": {
-                          "name": "Romania",
-                          "code": "RO"
+                          "name": "Romania"
                         },
                         "city": ""
                       }
@@ -880,8 +832,7 @@
                       },
                       "location": {
                         "country": {
-                          "name": "Germany",
-                          "code": "DE"
+                          "name": "Germany"
                         },
                         "city": "Berlin"
                       }
@@ -908,8 +859,7 @@
                       },
                       "location": {
                         "country": {
-                          "name": "France",
-                          "code": "FR"
+                          "name": "France"
                         },
                         "city": "Lyon"
                       }
@@ -943,8 +893,7 @@
                       },
                       "location": {
                         "country": {
-                          "name": "China",
-                          "code": "CN"
+                          "name": "China"
                         },
                         "city": "Beijing"
                       }
@@ -971,8 +920,7 @@
                       },
                       "location": {
                         "country": {
-                          "name": "Finland",
-                          "code": "FI"
+                          "name": "Finland"
                         },
                         "city": "Helsinki"
                       }
@@ -999,8 +947,7 @@
                       },
                       "location": {
                         "country": {
-                          "name": "Australia",
-                          "code": "AU"
+                          "name": "Australia"
                         },
                         "city": ""
                       }
@@ -1034,10 +981,36 @@
                       },
                       "location": {
                         "country": {
-                          "name": "Great Britain",
-                          "code": "GB"
+                          "name": "Great Britain"
                         },
                         "city": "London"
+                      }
+                    }
+                  ],
+                  "urls": null
+                },
+                {
+                  "type": "TALK",
+                  "title": "Documenting components with stories",
+                  "description": "Most documentation systems focus on text content of one form or another: WYSIWYG editors, markdown, code comments, and so forth. Storybook, the industry-standard component workshop, takes a very different approach, focusing instead on component examples, or **stories**.\n\nIn this demo, I will introduce an open format called Component Story Format (CSF).\n          \nI will show how CSF can be used used to create interactive docs in Storybook, including auto-generated DocsPage and freeform MDX documentation. Storybook Docs is a convenient way to build a living production design system.\n          \nI will then show how CSF stories can be used create novel forms of documentation, such as multiplayer collaborative docs, interactive design prototypes, and even behavioral documentation via tests.\n          \nFinally, I will present the current status and outline a roadmap of improvements that are on their way in the coming months.",
+                  "people": [
+                    {
+                      "name": "Michael Shilman",
+                      "about": "Building Storybook and Chroma.",
+                      "aboutShort": "Building Storybook and Chroma.",
+                      "image": {
+                        "url": "https://api.react-finland.fi/media/people/michael.jpg"
+                      },
+                      "company": null,
+                      "social": {
+                        "twitter": "https://twitter.com/mshilman",
+                        "homepage": null
+                      },
+                      "location": {
+                        "country": {
+                          "name": "Taiwan"
+                        },
+                        "city": "Taipei"
                       }
                     }
                   ],
@@ -1062,8 +1035,7 @@
                       },
                       "location": {
                         "country": {
-                          "name": "Austria",
-                          "code": "AT"
+                          "name": "Austria"
                         },
                         "city": "Vienna"
                       }
@@ -1097,8 +1069,7 @@
                       },
                       "location": {
                         "country": {
-                          "name": "Finland",
-                          "code": "FI"
+                          "name": "Finland"
                         },
                         "city": "Helsinki"
                       }
@@ -1125,8 +1096,7 @@
                       },
                       "location": {
                         "country": {
-                          "name": "Croatia",
-                          "code": "HR"
+                          "name": "Croatia"
                         },
                         "city": "Zagreb"
                       }
@@ -1153,8 +1123,7 @@
                       },
                       "location": {
                         "country": {
-                          "name": "United States",
-                          "code": "US"
+                          "name": "United States"
                         },
                         "city": "San Francisco"
                       }
@@ -1194,8 +1163,7 @@
                       },
                       "location": {
                         "country": {
-                          "name": "Australia",
-                          "code": "AU"
+                          "name": "Australia"
                         },
                         "city": "Sydney"
                       }
@@ -1222,8 +1190,7 @@
                       },
                       "location": {
                         "country": {
-                          "name": "United States",
-                          "code": "US"
+                          "name": "United States"
                         },
                         "city": "Boston"
                       }
@@ -1250,8 +1217,7 @@
                       },
                       "location": {
                         "country": {
-                          "name": "Estonia",
-                          "code": "EE"
+                          "name": "Estonia"
                         },
                         "city": "London"
                       }
@@ -1285,8 +1251,7 @@
                       },
                       "location": {
                         "country": {
-                          "name": "France",
-                          "code": "FR"
+                          "name": "France"
                         },
                         "city": "Lyon"
                       }
@@ -1313,8 +1278,7 @@
                       },
                       "location": {
                         "country": {
-                          "name": "Romania",
-                          "code": "RO"
+                          "name": "Romania"
                         },
                         "city": "Cluj-Napoca"
                       }
@@ -1341,8 +1305,7 @@
                       },
                       "location": {
                         "country": {
-                          "name": "Italy",
-                          "code": "IT"
+                          "name": "Italy"
                         },
                         "city": "Bolzano"
                       }
@@ -1376,8 +1339,7 @@
                       },
                       "location": {
                         "country": {
-                          "name": "United States",
-                          "code": "US"
+                          "name": "United States"
                         },
                         "city": ""
                       }
@@ -1404,8 +1366,7 @@
                       },
                       "location": {
                         "country": {
-                          "name": "Finland",
-                          "code": "FI"
+                          "name": "Finland"
                         },
                         "city": "Helsinki"
                       }
@@ -1432,8 +1393,7 @@
                       },
                       "location": {
                         "country": {
-                          "name": "Israel",
-                          "code": "IL"
+                          "name": "Israel"
                         },
                         "city": "Tel Aviv"
                       }
@@ -1467,8 +1427,7 @@
                       },
                       "location": {
                         "country": {
-                          "name": "Finland",
-                          "code": "FI"
+                          "name": "Finland"
                         },
                         "city": "Helsinki"
                       }
@@ -1495,8 +1454,7 @@
                       },
                       "location": {
                         "country": {
-                          "name": "Finland",
-                          "code": "FI"
+                          "name": "Finland"
                         },
                         "city": "Helsinki"
                       }
@@ -1523,8 +1481,7 @@
                       },
                       "location": {
                         "country": {
-                          "name": "Finland",
-                          "code": "FI"
+                          "name": "Finland"
                         },
                         "city": ""
                       }
@@ -1551,8 +1508,7 @@
                       },
                       "location": {
                         "country": {
-                          "name": "Austria",
-                          "code": "AT"
+                          "name": "Austria"
                         },
                         "city": "Vienna"
                       }

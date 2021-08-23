@@ -3,114 +3,6 @@
     "conference": {
       "allSpeakers": [
         {
-          "firstName": "David",
-          "lastName": "Khourshid",
-          "talks": [
-            {
-              "day": "2021-08-30",
-              "begin": "16:00",
-              "end": "18:00",
-              "title": "The State of XState",
-              "type": "TALK",
-              "description": "Over the past few years, state machines, statecharts, and the actor model have proven to be viable concepts for building complex application logic in a clear, visual way with XState. In this talk, we'll take a peek into the future of XState, including new features in the next version, and new tools and services that will make it even easier to create and collaborate on state machines.",
-              "urls": null
-            }
-          ],
-          "workshops": [
-            {
-              "title": "Modeling React Apps with XState",
-              "type": "WORKSHOP",
-              "description": "In this workshop, you will become familiar with XState and learn to apply it in your daily work. If you have ever wanted to pick up state machines and statecharts, this is a good chance to do it."
-            }
-          ],
-          "about": "David Khourshid is a Florida-based web developer for Microsoft, a tech author, and speaker. Also a fervent open-source contributor, he is passionate about JavaScript, CSS, animation, innovative user interfaces, and cutting-edge front-end technologies. When not behind a computer keyboard, he’s behind a piano keyboard or traveling.",
-          "social": {
-            "homepage": null,
-            "github": "https://github.com/davidkpiano",
-            "twitter": "https://twitter.com/davidkpiano",
-            "linkedin": "https://linkedin.com/in/david-khourshid-760055125",
-            "twitch": null
-          },
-          "image": {
-            "url": "https://api.react-finland.fi/media/people/david.jpg"
-          },
-          "country": {
-            "code": "US"
-          }
-        },
-        {
-          "firstName": "Doug",
-          "lastName": "Sillars",
-          "talks": [
-            {
-              "day": "2021-09-03",
-              "begin": "12:00",
-              "end": "13:30",
-              "title": "Video streaming on the web: Live and recorded video streaming",
-              "type": "TALK",
-              "description": "In this presentation, we'll present how video streaming works.  We'll look at the anatomy of video streaming, and how video streaming is beneficial for delivering your content over just adding mp4 files.\n\nWe'll demonstrate live streaming **from** the browser, and then how to integrate that live stream into your webpage.",
-              "urls": null
-            }
-          ],
-          "workshops": [
-            {
-              "title": "Video on the web",
-              "type": "WORKSHOP",
-              "description": "Video is one of the fastest growing mediums on the web and in mobile applications. Video files have been shown to increase engagement, and can be a great way to deliver your message quickly. (And who doesn’t love animated GIFs?)\n\nHowever, video that takes a long time to start up leads to frustration and abandonment. The same goes for video that stalls during playback. In this workshop, you’ll learn best practices to optimize the delivery of your video to you customers, ensuring fast delivery and minimizing stalls for a great customer experience."
-            }
-          ],
-          "about": "Head of Developer Relations at api.video",
-          "social": {
-            "homepage": null,
-            "github": "https://github.com/dougsillars",
-            "twitter": "https://twitter.com/dougsillars",
-            "linkedin": "https://linkedin.com/in/dougsillars",
-            "twitch": null
-          },
-          "image": {
-            "url": "https://api.react-finland.fi/media/people/doug.jpg"
-          },
-          "country": {
-            "code": "US"
-          }
-        },
-        {
-          "firstName": "Gleb",
-          "lastName": "Bahmutov",
-          "talks": [
-            {
-              "day": "2021-09-03",
-              "begin": "07:00",
-              "end": "08:30",
-              "title": "Integration Testing for React Native Apps",
-              "type": "TALK",
-              "description": "My unpopular opinion is that testing is ... important. How do you test your React Native apps? In this presentation I will show how to run full integrations tests using Cypress while the RN app is running in the browser. This method can cover most of the application's code and be effective at finding logical errors and mistakes when calling the server APIs.",
-              "urls": null
-            }
-          ],
-          "workshops": [
-            {
-              "title": "Testing React Native Apps Using Cypress",
-              "type": "WORKSHOP",
-              "description": "How to run React Native apps in the browser using react-native-web and Expo, then how to run end-to-end tests with Cypress. We can add code coverage reporting and executing tests on CI, giving us high confidence in our application's code. Finally, we will learn how to mock the native components during tests."
-            }
-          ],
-          "about": "JavaScript ninja, image processing expert, software quality fanatic. Sr Director of Engineering at Mercari US. MS MVP for OSS work.",
-          "social": {
-            "homepage": "https://glebbahmutov.com/",
-            "github": "https://github.com/bahmutov",
-            "twitter": "https://twitter.com/bahmutov",
-            "linkedin": "https://linkedin.com/in/https://www.linkedin.com/in/bahmutov/",
-            "twitch": null
-          },
-          "image": {
-            "url": "https://api.react-finland.fi/media/people/gleb.jpg"
-          },
-          "country": {
-            "code": "US"
-          }
-        },
-        {
           "firstName": "Paul",
           "lastName": "Henschel",
           "talks": [
@@ -138,6 +30,36 @@
           },
           "country": {
             "code": "GB"
+          }
+        },
+        {
+          "firstName": "David",
+          "lastName": "Khourshid",
+          "talks": [
+            {
+              "day": "2021-08-30",
+              "begin": "16:00",
+              "end": "18:00",
+              "title": "The State of XState",
+              "type": "TALK",
+              "description": "Over the past few years, state machines, statecharts, and the actor model have proven to be viable concepts for building complex application logic in a clear, visual way with XState. In this talk, we'll take a peek into the future of XState, including new features in the next version, and new tools and services that will make it even easier to create and collaborate on state machines.",
+              "urls": null
+            }
+          ],
+          "workshops": [],
+          "about": "David Khourshid is a Florida-based web developer for Microsoft, a tech author, and speaker. Also a fervent open-source contributor, he is passionate about JavaScript, CSS, animation, innovative user interfaces, and cutting-edge front-end technologies. When not behind a computer keyboard, he’s behind a piano keyboard or traveling.",
+          "social": {
+            "homepage": null,
+            "github": "https://github.com/davidkpiano",
+            "twitter": "https://twitter.com/davidkpiano",
+            "linkedin": "https://linkedin.com/in/david-khourshid-760055125",
+            "twitch": null
+          },
+          "image": {
+            "url": "https://api.react-finland.fi/media/people/david.jpg"
+          },
+          "country": {
+            "code": "US"
           }
         },
         {
@@ -244,7 +166,7 @@
             {
               "title": "Powering Next.js with Drupal",
               "type": "WORKSHOP",
-              "description": "This session will cover why and how to fully decouple Drupal with Next.JS, an open source modern frontend framework that will empower frontend developers to build incredibly fast and interactive websites using React without losing key benefits that Drupal provides like content modeling and administration UI.\n          \nJoin us if you want to discover the ins and outs of how Drupal and Gatsby ecosystem complement each other."
+              "description": "This session will cover why and how to fully decouple Drupal with Next.JS, an open source modern frontend framework that will empower frontend developers to build incredibly fast and interactive websites using React without losing key benefits that Drupal provides like content modeling and administration UI.\n          \nJoin us if you want to discover the ins and outs of how Drupal and Gatsby ecosystem complement each other.\n\n**Sold out!**"
             }
           ],
           "about": "Señor Developer.",
@@ -270,7 +192,7 @@
             {
               "title": "Powering Next.js with Drupal",
               "type": "WORKSHOP",
-              "description": "This session will cover why and how to fully decouple Drupal with Next.JS, an open source modern frontend framework that will empower frontend developers to build incredibly fast and interactive websites using React without losing key benefits that Drupal provides like content modeling and administration UI.\n          \nJoin us if you want to discover the ins and outs of how Drupal and Gatsby ecosystem complement each other."
+              "description": "This session will cover why and how to fully decouple Drupal with Next.JS, an open source modern frontend framework that will empower frontend developers to build incredibly fast and interactive websites using React without losing key benefits that Drupal provides like content modeling and administration UI.\n          \nJoin us if you want to discover the ins and outs of how Drupal and Gatsby ecosystem complement each other.\n\n**Sold out!**"
             }
           ],
           "about": "Content lead at Robocorp",
@@ -286,42 +208,6 @@
           },
           "country": {
             "code": "FI"
-          }
-        },
-        {
-          "firstName": "David",
-          "lastName": "Leitner",
-          "talks": [
-            {
-              "day": "2021-08-31",
-              "begin": "15:00",
-              "end": "16:30",
-              "title": "Micro Frontends in React — a State of the Art Approach",
-              "type": "TALK",
-              "description": "David will explain the different possibilities to implement MicroFrontends in the past, the present, and the future. More importantly, he will leave you to know which of the available approaches is best suited for your specific task at hand.",
-              "urls": null
-            }
-          ],
-          "workshops": [
-            {
-              "title": "MicroFrontends in React",
-              "type": "WORKSHOP",
-              "description": "Our first MicroFrontend project started almost to the day exactly five years ago and since then we have accompanied countless projects following this architectural style. Ever since, the technical possibilities with which MicroFrontends can be implemented have changed significantly and the options have increased considerably.\n\nOn the client-side we came from dilettante approaches based on iFrames and settled up with more elaborated strategies like Webpack Module-Federation or EcmaScript Import-Maps. We moved from pure Edge-Side-Includes to full fletched frameworks that allow us to compose MicroFrontends more comfortably and sustainably on the server-side. And even during the implementation, we achieved entirely new possibilities by more mature ways to manage MonoRepos and distributed or incremental builds. By showing real-world examples, we will go into detail about the evolution of these different approaches.\n          \nUpon a closer look at the challenges that still remain, it will become clear that none of these new concepts and tools come for free but with a fair amount of newly introduced complexity. Ultimately, this workshop will explain the different possibilities to implement MicroFrontends in the past, the present, and the future. More importantly, it will leave you to know which of the available approaches is best suited for your specific task at hand."
-            }
-          ],
-          "about": "David is Coding Architect at SQUER, a Viennese Software Company, which is working with different stacks and environments, but always an overarching mission: connect ideas and provide impact — with technology. He spends much of his time on the frontlines tackling the challenges of scaling software and complex domains, with a strong focus on reactive systems, cloud-native architectures and state of the art web technologies. David enjoys sharing his knowledge as a speaker at conferences and as a lecturer for his post-diploma courses at the University of Applied Sciences Technikum Vienna.",
-          "social": {
-            "homepage": null,
-            "github": "https://github.com/duffleit",
-            "twitter": "https://twitter.com/duffleit",
-            "linkedin": "https://linkedin.com/in/leitner-david",
-            "twitch": null
-          },
-          "image": {
-            "url": "https://api.react-finland.fi/media/people/david-l.jpg"
-          },
-          "country": {
-            "code": "AT"
           }
         },
         {
@@ -385,6 +271,156 @@
           }
         },
         {
+          "firstName": "David",
+          "lastName": "Leitner",
+          "talks": [
+            {
+              "day": "2021-08-31",
+              "begin": "15:00",
+              "end": "16:30",
+              "title": "Micro Frontends in React — a State of the Art Approach",
+              "type": "TALK",
+              "description": "David will explain the different possibilities to implement MicroFrontends in the past, the present, and the future. More importantly, he will leave you to know which of the available approaches is best suited for your specific task at hand.",
+              "urls": null
+            }
+          ],
+          "workshops": [],
+          "about": "David is Coding Architect at SQUER, a Viennese Software Company, which is working with different stacks and environments, but always an overarching mission: connect ideas and provide impact — with technology. He spends much of his time on the frontlines tackling the challenges of scaling software and complex domains, with a strong focus on reactive systems, cloud-native architectures and state of the art web technologies. David enjoys sharing his knowledge as a speaker at conferences and as a lecturer for his post-diploma courses at the University of Applied Sciences Technikum Vienna.",
+          "social": {
+            "homepage": null,
+            "github": "https://github.com/duffleit",
+            "twitter": "https://twitter.com/duffleit",
+            "linkedin": "https://linkedin.com/in/leitner-david",
+            "twitch": null
+          },
+          "image": {
+            "url": "https://api.react-finland.fi/media/people/david-l.jpg"
+          },
+          "country": {
+            "code": "AT"
+          }
+        },
+        {
+          "firstName": "Nasim",
+          "lastName": "Selmani",
+          "talks": [
+            {
+              "day": "2021-09-01",
+              "begin": "07:00",
+              "end": "09:00",
+              "title": "Reasons why we need inclusion",
+              "type": "TALK",
+              "description": "",
+              "urls": null
+            }
+          ],
+          "workshops": [],
+          "about": "Diversity, Equity & Inclusion | People Operations | Inclusive Leadership | Intersectionality | Producer",
+          "social": {
+            "homepage": "https://www.deidei.co/",
+            "github": null,
+            "twitter": "https://twitter.com/nasimselmani",
+            "linkedin": "https://linkedin.com/in/nasim-selmani-",
+            "twitch": null
+          },
+          "image": {
+            "url": "https://api.react-finland.fi/media/people/nasim.jpg"
+          },
+          "country": {
+            "code": "FI"
+          }
+        },
+        {
+          "firstName": "Kristopher",
+          "lastName": "Jackson",
+          "talks": [
+            {
+              "day": "2021-09-01",
+              "begin": "07:00",
+              "end": "09:00",
+              "title": "Understanding unconscious bias",
+              "type": "TALK",
+              "description": "",
+              "urls": null
+            }
+          ],
+          "workshops": [],
+          "about": "Experienced Business Development Specialist with a demonstrated history of working in the information technology and services industry. Skilled in Sales, Customer Relationship Management (CRM), Event Management, Management, and Account Management. Strong business development professional with a Finance focused in Economics, and African American History from University of Illinois at Urbana-Champaign.",
+          "social": {
+            "homepage": null,
+            "github": null,
+            "twitter": null,
+            "linkedin": "https://linkedin.com/in/jacksonkristopher",
+            "twitch": null
+          },
+          "image": {
+            "url": "https://api.react-finland.fi/media/people/kristopher.jpg"
+          },
+          "country": {
+            "code": "FI"
+          }
+        },
+        {
+          "firstName": "Jasmin",
+          "lastName": "Assulin",
+          "talks": [
+            {
+              "day": "2021-09-01",
+              "begin": "07:00",
+              "end": "09:00",
+              "title": "Structural Racism",
+              "type": "TALK",
+              "description": "How our narrow understanding of racism (visible and interpersonal level) still stands in the way of racial equity and inclusion (in tech, too) and how racial bias can be seen in tech, products etc.",
+              "urls": null
+            }
+          ],
+          "workshops": [],
+          "about": "CEO & Co-founder at deidei | Diversity, Equity, Inclusion & Comms specialist | She/her",
+          "social": {
+            "homepage": "https://www.deidei.co/",
+            "github": null,
+            "twitter": "https://twitter.com/jasminassulin",
+            "linkedin": "https://linkedin.com/in/jasmin-assulin",
+            "twitch": null
+          },
+          "image": {
+            "url": "https://api.react-finland.fi/media/people/jasmin.jpg"
+          },
+          "country": {
+            "code": "FI"
+          }
+        },
+        {
+          "firstName": "Emmi",
+          "lastName": "Marjetta",
+          "talks": [
+            {
+              "day": "2021-09-01",
+              "begin": "07:00",
+              "end": "09:00",
+              "title": "How to avoid bias or exclusion when recruiting",
+              "type": "TALK",
+              "description": "I focus on why inclusion is important in hiring and what are the inclusive hiring practices for any organization that could be taken into use. Inclusive hiring and evaluation process are the great window of opportunity that can truly support inclusion with practical actions. I offer practical tips and a way to implement small changes while working the way towards more inclusive hiring culture and strategy.",
+              "urls": null
+            }
+          ],
+          "workshops": [],
+          "about": "Talent Acquisition & Employer Branding Manager at Hoxhunt",
+          "social": {
+            "homepage": null,
+            "github": null,
+            "twitter": null,
+            "linkedin": "https://linkedin.com/in/emmi-marjetta",
+            "twitch": null
+          },
+          "image": {
+            "url": "https://api.react-finland.fi/media/people/emmi.jpg"
+          },
+          "country": {
+            "code": "FI"
+          }
+        },
+        {
           "firstName": "Andrei",
           "lastName": "Pfeiffer",
           "talks": [
@@ -394,7 +430,7 @@
               "end": "11:30",
               "title": "A thorough analysis of CSS-in-JS",
               "type": "TALK",
-              "description": "There are more than 50 different CSS-in-JS libraries out there and each of them provides a unique set of features.\n\nInstead of reviewing each individual library, we’ll analyse the various features that these libraries have to offer, to better understand what approach better suits a specific use-case.",
+              "description": "There are two mutually exclusive methods that CSS-in-JS libraries use to generate and ship styles to the browser. Both methods have benefits and downsides, so let’s analyze them in detail from the loading performance perspective.",
               "urls": null
             }
           ],
@@ -602,19 +638,19 @@
               "day": "2021-09-01",
               "begin": "14:00",
               "end": "15:30",
-              "title": "Mysterious talk",
+              "title": "The Actor Model: a new mental model for React",
               "type": "TALK",
-              "description": "",
+              "description": "System-level state management in modern React applications is challenging. Usually, as the applications grow, the complexity of interaction between different parts of the application compounds. The more you need those isolated parts to talk, the higher the level of complexity. Usually, the common pitfalls of these communications are underestimated especially with the recent trend of State management that tends to keep the application state outside of React and distributed. In this talk, We'll see how the Actor Model architecture can come to the rescue and what makes it stand out compared to the other approaches.",
               "urls": null
             }
           ],
           "workshops": [],
-          "about": "Farzad is a Software developer focused on JavaScript and friends. He is usually fascinated by Tooling, Architecture, Automation and Software Patterns.",
+          "about": "Lead engineer @epicgames. Into State machines and Statecharts. Coach @mentorcruise",
           "social": {
             "homepage": "https://farzadyz.com/",
             "github": "https://github.com/farskid",
             "twitter": "https://twitter.com/farzad_yz",
-            "linkedin": null,
+            "linkedin": "https://linkedin.com/in/farzad_yz",
             "twitch": null
           },
           "image": {
@@ -934,6 +970,36 @@
           }
         },
         {
+          "firstName": "Michael",
+          "lastName": "Shilman",
+          "talks": [
+            {
+              "day": "2021-09-02",
+              "begin": "12:00",
+              "end": "13:30",
+              "title": "Documenting components with stories",
+              "type": "TALK",
+              "description": "Most documentation systems focus on text content of one form or another: WYSIWYG editors, markdown, code comments, and so forth. Storybook, the industry-standard component workshop, takes a very different approach, focusing instead on component examples, or **stories**.\n\nIn this demo, I will introduce an open format called Component Story Format (CSF).\n          \nI will show how CSF can be used used to create interactive docs in Storybook, including auto-generated DocsPage and freeform MDX documentation. Storybook Docs is a convenient way to build a living production design system.\n          \nI will then show how CSF stories can be used create novel forms of documentation, such as multiplayer collaborative docs, interactive design prototypes, and even behavioral documentation via tests.\n          \nFinally, I will present the current status and outline a roadmap of improvements that are on their way in the coming months.",
+              "urls": null
+            }
+          ],
+          "workshops": [],
+          "about": "Building Storybook and Chroma.",
+          "social": {
+            "homepage": null,
+            "github": "https://github.com/shilman",
+            "twitter": "https://twitter.com/mshilman",
+            "linkedin": null,
+            "twitch": null
+          },
+          "image": {
+            "url": "https://api.react-finland.fi/media/people/michael.jpg"
+          },
+          "country": {
+            "code": "TW"
+          }
+        },
+        {
           "firstName": "Patrick",
           "lastName": "Ecker",
           "talks": [
@@ -1084,6 +1150,36 @@
           }
         },
         {
+          "firstName": "Gleb",
+          "lastName": "Bahmutov",
+          "talks": [
+            {
+              "day": "2021-09-03",
+              "begin": "07:00",
+              "end": "08:30",
+              "title": "Integration Testing for React Native Apps",
+              "type": "TALK",
+              "description": "My unpopular opinion is that testing is ... important. How do you test your React Native apps? In this presentation I will show how to run full integrations tests using Cypress while the RN app is running in the browser. This method can cover most of the application's code and be effective at finding logical errors and mistakes when calling the server APIs.",
+              "urls": null
+            }
+          ],
+          "workshops": [],
+          "about": "JavaScript ninja, image processing expert, software quality fanatic. Sr Director of Engineering at Mercari US. MS MVP for OSS work.",
+          "social": {
+            "homepage": "https://glebbahmutov.com/",
+            "github": "https://github.com/bahmutov",
+            "twitter": "https://twitter.com/bahmutov",
+            "linkedin": "https://linkedin.com/in/https://www.linkedin.com/in/bahmutov/",
+            "twitch": null
+          },
+          "image": {
+            "url": "https://api.react-finland.fi/media/people/gleb.jpg"
+          },
+          "country": {
+            "code": "US"
+          }
+        },
+        {
           "firstName": "Kadi",
           "lastName": "Kraman",
           "talks": [
@@ -1171,6 +1267,36 @@
           },
           "country": {
             "code": "IT"
+          }
+        },
+        {
+          "firstName": "Doug",
+          "lastName": "Sillars",
+          "talks": [
+            {
+              "day": "2021-09-03",
+              "begin": "12:00",
+              "end": "13:30",
+              "title": "Video streaming on the web: Live and recorded video streaming",
+              "type": "TALK",
+              "description": "In this presentation, we'll present how video streaming works.  We'll look at the anatomy of video streaming, and how video streaming is beneficial for delivering your content over just adding mp4 files.\n\nWe'll demonstrate live streaming **from** the browser, and then how to integrate that live stream into your webpage.",
+              "urls": null
+            }
+          ],
+          "workshops": [],
+          "about": "Head of Developer Relations at api.video",
+          "social": {
+            "homepage": null,
+            "github": "https://github.com/dougsillars",
+            "twitter": "https://twitter.com/dougsillars",
+            "linkedin": "https://linkedin.com/in/dougsillars",
+            "twitch": null
+          },
+          "image": {
+            "url": "https://api.react-finland.fi/media/people/doug.jpg"
+          },
+          "country": {
+            "code": "US"
           }
         },
         {
